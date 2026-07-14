@@ -1,0 +1,5402 @@
+[
+  {
+    "code": "NDLS",
+    "name": "New Delhi",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "A1",
+    "lat": 28.64,
+    "lon": 77.22
+  },
+  {
+    "code": "CSMT",
+    "name": "Mumbai CSMT",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A1",
+    "lat": 18.94,
+    "lon": 72.84
+  },
+  {
+    "code": "MAS",
+    "name": "Chennai Central",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "A1",
+    "lat": 13.08,
+    "lon": 80.28
+  },
+  {
+    "code": "HWH",
+    "name": "Howrah",
+    "state": "West Bengal",
+    "zone": "ER",
+    "category": "A1",
+    "lat": 22.58,
+    "lon": 88.34
+  },
+  {
+    "code": "SBC",
+    "name": "Bengaluru City",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A1",
+    "lat": 12.98,
+    "lon": 77.57
+  },
+  {
+    "code": "SC",
+    "name": "Secunderabad",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "A1",
+    "lat": 17.43,
+    "lon": 78.5
+  },
+  {
+    "code": "NGP",
+    "name": "Nagpur",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A1",
+    "lat": 21.15,
+    "lon": 79.09
+  },
+  {
+    "code": "BZA",
+    "name": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "A1",
+    "lat": 16.52,
+    "lon": 80.62
+  },
+  {
+    "code": "GHY",
+    "name": "Guwahati",
+    "state": "Assam",
+    "zone": "NFR",
+    "category": "A1",
+    "lat": 26.19,
+    "lon": 91.74
+  },
+  {
+    "code": "JP",
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A1",
+    "lat": 26.92,
+    "lon": 75.79
+  },
+  {
+    "code": "ADI",
+    "name": "Ahmedabad",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "A1",
+    "lat": 23.03,
+    "lon": 72.6
+  },
+  {
+    "code": "PUNE",
+    "name": "Pune Junction",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A1",
+    "lat": 18.53,
+    "lon": 73.87
+  },
+  {
+    "code": "BPL",
+    "name": "Bhopal Junction",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A1",
+    "lat": 23.27,
+    "lon": 77.41
+  },
+  {
+    "code": "PNBE",
+    "name": "Patna Junction",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "A1",
+    "lat": 25.61,
+    "lon": 85.14
+  },
+  {
+    "code": "LKO",
+    "name": "Lucknow",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "A1",
+    "lat": 26.84,
+    "lon": 80.94
+  },
+  {
+    "code": "CNB",
+    "name": "Kanpur Central",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A1",
+    "lat": 26.45,
+    "lon": 80.35
+  },
+  {
+    "code": "PRYJ",
+    "name": "Prayagraj Junction",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A1",
+    "lat": 25.45,
+    "lon": 81.85
+  },
+  {
+    "code": "KGP",
+    "name": "Kharagpur",
+    "state": "West Bengal",
+    "zone": "SER",
+    "category": "A1",
+    "lat": 22.34,
+    "lon": 87.32
+  },
+  {
+    "code": "BBS",
+    "name": "Bhubaneswar",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "A1",
+    "lat": 20.27,
+    "lon": 85.84
+  },
+  {
+    "code": "CBE",
+    "name": "Coimbatore Junction",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "A1",
+    "lat": 11.0,
+    "lon": 76.96
+  },
+  {
+    "code": "TVC",
+    "name": "Thiruvananthapuram Central",
+    "state": "Kerala",
+    "zone": "SR",
+    "category": "A1",
+    "lat": 8.49,
+    "lon": 76.95
+  },
+  {
+    "code": "ERS",
+    "name": "Ernakulam Junction",
+    "state": "Kerala",
+    "zone": "SR",
+    "category": "A1",
+    "lat": 9.97,
+    "lon": 76.29
+  },
+  {
+    "code": "MDU",
+    "name": "Madurai Junction",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "A1",
+    "lat": 9.92,
+    "lon": 78.12
+  },
+  {
+    "code": "VSKP",
+    "name": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "A1",
+    "lat": 17.72,
+    "lon": 83.3
+  },
+  {
+    "code": "RNC",
+    "name": "Ranchi",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "A1",
+    "lat": 23.37,
+    "lon": 85.32
+  },
+  {
+    "code": "DBG",
+    "name": "Darbhanga Junction",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "A1",
+    "lat": 26.16,
+    "lon": 85.9
+  },
+  {
+    "code": "GKP",
+    "name": "Gorakhpur Junction",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "A1",
+    "lat": 26.76,
+    "lon": 83.37
+  },
+  {
+    "code": "ASR",
+    "name": "Amritsar Junction",
+    "state": "Punjab",
+    "zone": "NR",
+    "category": "A1",
+    "lat": 31.63,
+    "lon": 74.87
+  },
+  {
+    "code": "UMB",
+    "name": "Ambala Cantt",
+    "state": "Haryana",
+    "zone": "NR",
+    "category": "A1",
+    "lat": 30.35,
+    "lon": 76.82
+  },
+  {
+    "code": "JU",
+    "name": "Jodhpur Junction",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A1",
+    "lat": 26.29,
+    "lon": 73.02
+  },
+  {
+    "code": "BCT",
+    "name": "Mumbai Central",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "A1",
+    "lat": 18.97,
+    "lon": 72.82
+  },
+  {
+    "code": "ST",
+    "name": "Surat",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "A1",
+    "lat": 21.2,
+    "lon": 72.83
+  },
+  {
+    "code": "RTM",
+    "name": "Ratlam Junction",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A1",
+    "lat": 23.33,
+    "lon": 75.04
+  },
+  {
+    "code": "JBP",
+    "name": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A1",
+    "lat": 23.16,
+    "lon": 79.95
+  },
+  {
+    "code": "R",
+    "name": "Raipur Junction",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "A1",
+    "lat": 21.25,
+    "lon": 81.63
+  },
+  {
+    "code": "BSP",
+    "name": "Bilaspur Junction",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "A1",
+    "lat": 22.09,
+    "lon": 82.15
+  },
+  {
+    "code": "MYS",
+    "name": "Mysuru Junction",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A1",
+    "lat": 12.31,
+    "lon": 76.65
+  },
+  {
+    "code": "UBL",
+    "name": "Hubballi Junction",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A1",
+    "lat": 15.36,
+    "lon": 75.13
+  },
+  {
+    "code": "DBRG",
+    "name": "Dibrugarh",
+    "state": "Assam",
+    "zone": "NFR",
+    "category": "A1",
+    "lat": 27.48,
+    "lon": 94.91
+  },
+  {
+    "code": "NJP",
+    "name": "New Jalpaiguri",
+    "state": "West Bengal",
+    "zone": "NFR",
+    "category": "A1",
+    "lat": 26.7,
+    "lon": 88.44
+  },
+  {
+    "code": "SC001",
+    "name": "Purvi Purpuram",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "B",
+    "lat": 13.9768,
+    "lon": 76.2175
+  },
+  {
+    "code": "SW002",
+    "name": "Old Nagarkheda",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A1",
+    "lat": 10.7086,
+    "lon": 74.0305
+  },
+  {
+    "code": "WR003",
+    "name": "Old Khedapur",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "C",
+    "lat": 20.9366,
+    "lon": 72.1445
+  },
+  {
+    "code": "WC004",
+    "name": "Sant Purganj",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 21.4451,
+    "lon": 76.5072
+  },
+  {
+    "code": "CR005",
+    "name": "Rani Nagarnagar",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A",
+    "lat": 18.5129,
+    "lon": 74.4077
+  },
+  {
+    "code": "NR006",
+    "name": "Sant Purwara",
+    "state": "Jammu and Kashmir",
+    "zone": "NR",
+    "category": "A",
+    "lat": 32.8118,
+    "lon": 75.6497
+  },
+  {
+    "code": "NW007",
+    "name": "Old Puramkheda",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 24.346,
+    "lon": 70.4869
+  },
+  {
+    "code": "NC008",
+    "name": "Shri Puramnagar",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A",
+    "lat": 25.1609,
+    "lon": 80.1739
+  },
+  {
+    "code": "NE009",
+    "name": "Rani Ganjkot",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "B",
+    "lat": 28.1912,
+    "lon": 83.4127
+  },
+  {
+    "code": "NF010",
+    "name": "Purvi Khedaganj",
+    "state": "Tripura",
+    "zone": "NFR",
+    "category": "B",
+    "lat": 24.1438,
+    "lon": 91.6562
+  },
+  {
+    "code": "ER011",
+    "name": "Old Abadkot",
+    "state": "West Bengal",
+    "zone": "ER",
+    "category": "B",
+    "lat": 25.2526,
+    "lon": 89.6353
+  },
+  {
+    "code": "EC012",
+    "name": "Raja Puramnagar",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 28.1346,
+    "lon": 84.2027
+  },
+  {
+    "code": "EC013",
+    "name": "New Garhwara",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "B",
+    "lat": 16.9774,
+    "lon": 86.2149
+  },
+  {
+    "code": "SE014",
+    "name": "Old Puramkheda",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "C",
+    "lat": 21.2958,
+    "lon": 82.0352
+  },
+  {
+    "code": "SR015",
+    "name": "Naya Shaharwara",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "A1",
+    "lat": 13.0277,
+    "lon": 75.5699
+  },
+  {
+    "code": "SC016",
+    "name": "Naya Garhkheda",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 15.6713,
+    "lon": 82.4728
+  },
+  {
+    "code": "SW017",
+    "name": "Old Puramshahar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A",
+    "lat": 15.272,
+    "lon": 76.2588
+  },
+  {
+    "code": "WR018",
+    "name": "Sant Kotnagar",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 19.1071,
+    "lon": 69.0227
+  },
+  {
+    "code": "WC019",
+    "name": "Sant Shaharganj",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 25.3917,
+    "lon": 78.5536
+  },
+  {
+    "code": "CR020",
+    "name": "Shri Ganjkot",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 22.6745,
+    "lon": 78.457
+  },
+  {
+    "code": "NR021",
+    "name": "Uttar Khedakot",
+    "state": "Himachal Pradesh",
+    "zone": "NR",
+    "category": "A1",
+    "lat": 26.7831,
+    "lon": 75.5409
+  },
+  {
+    "code": "NW022",
+    "name": "Sant Abadpur",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 29.6286,
+    "lon": 70.5996
+  },
+  {
+    "code": "NC023",
+    "name": "New Nagarshahar",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A",
+    "lat": 27.1183,
+    "lon": 83.6279
+  },
+  {
+    "code": "NE024",
+    "name": "Naya Puramshahar",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "B",
+    "lat": 30.0024,
+    "lon": 83.7869
+  },
+  {
+    "code": "NF025",
+    "name": "Shri Puramgarh",
+    "state": "Meghalaya",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 29.2973,
+    "lon": 92.1604
+  },
+  {
+    "code": "ER026",
+    "name": "Shri Abadnagar",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "A1",
+    "lat": 23.6182,
+    "lon": 85.6108
+  },
+  {
+    "code": "EC027",
+    "name": "Shri Purnagar",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "B",
+    "lat": 22.4718,
+    "lon": 82.2199
+  },
+  {
+    "code": "EC028",
+    "name": "Rani Nagarshahar",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "B",
+    "lat": 20.6828,
+    "lon": 82.4997
+  },
+  {
+    "code": "SE029",
+    "name": "Naya Khedakheda",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "B",
+    "lat": 23.9923,
+    "lon": 86.1525
+  },
+  {
+    "code": "SR030",
+    "name": "Shri Nagarnagar",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "C",
+    "lat": 9.4801,
+    "lon": 77.3777
+  },
+  {
+    "code": "SC031",
+    "name": "Uttar Nagarpur",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "B",
+    "lat": 18.6041,
+    "lon": 76.2649
+  },
+  {
+    "code": "SW032",
+    "name": "Shri Abadshahar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A",
+    "lat": 13.4532,
+    "lon": 74.4498
+  },
+  {
+    "code": "WR033",
+    "name": "Shri Nagarwara",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "A1",
+    "lat": 22.565,
+    "lon": 72.7841
+  },
+  {
+    "code": "WC034",
+    "name": "Uttar Nagarabad",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 22.8995,
+    "lon": 76.4962
+  },
+  {
+    "code": "CR035",
+    "name": "Raja Purganj",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A1",
+    "lat": 22.8972,
+    "lon": 73.8564
+  },
+  {
+    "code": "NR036",
+    "name": "New Puramgarh",
+    "state": "Jammu and Kashmir",
+    "zone": "NR",
+    "category": "C",
+    "lat": 27.0836,
+    "lon": 75.077
+  },
+  {
+    "code": "NW037",
+    "name": "Uttar Khedashahar",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 23.4002,
+    "lon": 74.0892
+  },
+  {
+    "code": "NC038",
+    "name": "Old Shaharganj",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 23.0608,
+    "lon": 78.3008
+  },
+  {
+    "code": "NE039",
+    "name": "Madhya Nagarabad",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "A",
+    "lat": 30.0912,
+    "lon": 82.4877
+  },
+  {
+    "code": "NF040",
+    "name": "Madhya Khedapur",
+    "state": "Tripura",
+    "zone": "NFR",
+    "category": "A",
+    "lat": 25.9346,
+    "lon": 93.0857
+  },
+  {
+    "code": "ER041",
+    "name": "Old Kotpuram",
+    "state": "West Bengal",
+    "zone": "ER",
+    "category": "B",
+    "lat": 21.1708,
+    "lon": 86.7705
+  },
+  {
+    "code": "EC042",
+    "name": "Sant Warakot",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "A1",
+    "lat": 25.208,
+    "lon": 88.9892
+  },
+  {
+    "code": "EC043",
+    "name": "Purvi Nagarshahar",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 17.8564,
+    "lon": 87.5328
+  },
+  {
+    "code": "SE044",
+    "name": "Purvi Abadkot",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "A",
+    "lat": 21.5673,
+    "lon": 84.3025
+  },
+  {
+    "code": "SR045",
+    "name": "Sant Khedashahar",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "C",
+    "lat": 9.0957,
+    "lon": 79.1437
+  },
+  {
+    "code": "SC046",
+    "name": "Naya Puramnagar",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 14.0881,
+    "lon": 77.4723
+  },
+  {
+    "code": "SW047",
+    "name": "Shri Kotabad",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 13.9197,
+    "lon": 78.8374
+  },
+  {
+    "code": "WR048",
+    "name": "Uttar Nagargarh",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "A1",
+    "lat": 18.0248,
+    "lon": 74.3978
+  },
+  {
+    "code": "WC049",
+    "name": "Sant Ganjwara",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 19.5677,
+    "lon": 75.5267
+  },
+  {
+    "code": "CR050",
+    "name": "Naya Shaharpur",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 19.8677,
+    "lon": 75.0085
+  },
+  {
+    "code": "NR051",
+    "name": "Uttar Puramkot",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "B",
+    "lat": 27.4705,
+    "lon": 74.7467
+  },
+  {
+    "code": "NW052",
+    "name": "Purvi Kotshahar",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 28.2463,
+    "lon": 76.4803
+  },
+  {
+    "code": "NC053",
+    "name": "Shri Ganjganj",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A1",
+    "lat": 23.7555,
+    "lon": 83.4714
+  },
+  {
+    "code": "NE054",
+    "name": "Raja Abadpuram",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "A",
+    "lat": 26.1778,
+    "lon": 78.7711
+  },
+  {
+    "code": "NF055",
+    "name": "New Abadabad",
+    "state": "Nagaland",
+    "zone": "NFR",
+    "category": "B",
+    "lat": 25.1363,
+    "lon": 94.5674
+  },
+  {
+    "code": "ER056",
+    "name": "Shri Abadpur",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "B",
+    "lat": 22.2893,
+    "lon": 85.9502
+  },
+  {
+    "code": "EC057",
+    "name": "Purvi Puramkot",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 24.318,
+    "lon": 82.1932
+  },
+  {
+    "code": "EC058",
+    "name": "Sant Ganjkheda",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "A1",
+    "lat": 16.7588,
+    "lon": 84.0419
+  },
+  {
+    "code": "SE059",
+    "name": "Rani Garhkheda",
+    "state": "West Bengal",
+    "zone": "SER",
+    "category": "C",
+    "lat": 24.7965,
+    "lon": 81.8306
+  },
+  {
+    "code": "SR060",
+    "name": "Uttar Garhpur",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "C",
+    "lat": 11.808,
+    "lon": 81.0818
+  },
+  {
+    "code": "SC061",
+    "name": "Shri Kotgarh",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "B",
+    "lat": 17.3621,
+    "lon": 80.1437
+  },
+  {
+    "code": "SW062",
+    "name": "Purvi Puramshahar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 12.7833,
+    "lon": 77.3805
+  },
+  {
+    "code": "WR063",
+    "name": "Old Ganjabad",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 22.7412,
+    "lon": 75.3196
+  },
+  {
+    "code": "WC064",
+    "name": "Madhya Khedapuram",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 25.3361,
+    "lon": 77.1271
+  },
+  {
+    "code": "CR065",
+    "name": "Shri Garhkheda",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 19.0925,
+    "lon": 76.7294
+  },
+  {
+    "code": "NR066",
+    "name": "Old Waraganj",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "B",
+    "lat": 29.6082,
+    "lon": 77.4306
+  },
+  {
+    "code": "NW067",
+    "name": "Rani Nagarabad",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 28.6459,
+    "lon": 71.0315
+  },
+  {
+    "code": "NC068",
+    "name": "Uttar Abadwara",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 25.4011,
+    "lon": 81.4084
+  },
+  {
+    "code": "NE069",
+    "name": "Shri Garhwara",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "B",
+    "lat": 24.533,
+    "lon": 83.3134
+  },
+  {
+    "code": "NF070",
+    "name": "Purvi Garhabad",
+    "state": "West Bengal",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 26.2518,
+    "lon": 92.9018
+  },
+  {
+    "code": "ER071",
+    "name": "Purvi Waraganj",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "C",
+    "lat": 26.4152,
+    "lon": 88.1682
+  },
+  {
+    "code": "EC072",
+    "name": "New Khedashahar",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 25.1214,
+    "lon": 83.1141
+  },
+  {
+    "code": "EC073",
+    "name": "New Warapuram",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "B",
+    "lat": 21.3607,
+    "lon": 84.6491
+  },
+  {
+    "code": "SE074",
+    "name": "Shri Puramwara",
+    "state": "West Bengal",
+    "zone": "SER",
+    "category": "B",
+    "lat": 20.1415,
+    "lon": 82.8509
+  },
+  {
+    "code": "SR075",
+    "name": "Old Nagarganj",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "B",
+    "lat": 9.6812,
+    "lon": 75.5696
+  },
+  {
+    "code": "SC076",
+    "name": "Shri Nagargarh",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "B",
+    "lat": 16.7983,
+    "lon": 78.4104
+  },
+  {
+    "code": "SW077",
+    "name": "Shri Garhgarh",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 13.1627,
+    "lon": 72.5413
+  },
+  {
+    "code": "WR078",
+    "name": "Rani Puramgarh",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 23.2326,
+    "lon": 72.8229
+  },
+  {
+    "code": "WC079",
+    "name": "Madhya Abadwara",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 22.5509,
+    "lon": 75.2032
+  },
+  {
+    "code": "CR080",
+    "name": "Rani Garhganj",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A",
+    "lat": 22.8651,
+    "lon": 75.7389
+  },
+  {
+    "code": "NR081",
+    "name": "Raja Khedakheda",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "A",
+    "lat": 30.4992,
+    "lon": 73.9499
+  },
+  {
+    "code": "NW082",
+    "name": "New Ganjpur",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 25.2915,
+    "lon": 73.1829
+  },
+  {
+    "code": "NC083",
+    "name": "Rani Garhpuram",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "B",
+    "lat": 28.3444,
+    "lon": 80.2921
+  },
+  {
+    "code": "NE084",
+    "name": "Old Purkot",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "A",
+    "lat": 28.9686,
+    "lon": 83.0623
+  },
+  {
+    "code": "NF085",
+    "name": "Uttar Abadabad",
+    "state": "Assam",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 24.0667,
+    "lon": 89.8835
+  },
+  {
+    "code": "ER086",
+    "name": "Purvi Khedaabad",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "B",
+    "lat": 24.8683,
+    "lon": 85.1745
+  },
+  {
+    "code": "EC087",
+    "name": "Madhya Nagarganj",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "A",
+    "lat": 26.0508,
+    "lon": 88.5022
+  },
+  {
+    "code": "EC088",
+    "name": "Madhya Garhgarh",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "A",
+    "lat": 20.1447,
+    "lon": 86.814
+  },
+  {
+    "code": "SE089",
+    "name": "Shri Nagarpuram",
+    "state": "West Bengal",
+    "zone": "SER",
+    "category": "C",
+    "lat": 23.9784,
+    "lon": 82.9304
+  },
+  {
+    "code": "SR090",
+    "name": "Raja Kotnagar",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "B",
+    "lat": 7.0886,
+    "lon": 77.4404
+  },
+  {
+    "code": "SC091",
+    "name": "New Nagargarh",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 17.9512,
+    "lon": 78.5484
+  },
+  {
+    "code": "SW092",
+    "name": "Old Puramkheda",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 13.549,
+    "lon": 77.6172
+  },
+  {
+    "code": "WR093",
+    "name": "Sant Kotabad",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "B",
+    "lat": 24.1714,
+    "lon": 70.707
+  },
+  {
+    "code": "WC094",
+    "name": "New Khedakheda",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 19.7009,
+    "lon": 80.9567
+  },
+  {
+    "code": "CR095",
+    "name": "Naya Waraabad",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "B",
+    "lat": 18.3824,
+    "lon": 78.1622
+  },
+  {
+    "code": "NR096",
+    "name": "Sant Shaharpur",
+    "state": "Jammu and Kashmir",
+    "zone": "NR",
+    "category": "B",
+    "lat": 26.5993,
+    "lon": 78.0405
+  },
+  {
+    "code": "NW097",
+    "name": "New Shaharabad",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 26.1372,
+    "lon": 70.1207
+  },
+  {
+    "code": "NC098",
+    "name": "Sant Abadgarh",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "B",
+    "lat": 27.1477,
+    "lon": 79.5831
+  },
+  {
+    "code": "NE099",
+    "name": "Old Shaharkot",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "C",
+    "lat": 25.8155,
+    "lon": 83.42
+  },
+  {
+    "code": "NF100",
+    "name": "Sant Purampuram",
+    "state": "West Bengal",
+    "zone": "NFR",
+    "category": "A",
+    "lat": 28.049,
+    "lon": 91.2088
+  },
+  {
+    "code": "ER101",
+    "name": "Old Ganjabad",
+    "state": "West Bengal",
+    "zone": "ER",
+    "category": "C",
+    "lat": 21.4355,
+    "lon": 88.1271
+  },
+  {
+    "code": "EC102",
+    "name": "Old Khedapuram",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "B",
+    "lat": 24.0737,
+    "lon": 84.5262
+  },
+  {
+    "code": "EC103",
+    "name": "Sant Purshahar",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "B",
+    "lat": 16.3186,
+    "lon": 81.3817
+  },
+  {
+    "code": "SE104",
+    "name": "Sant Ganjwara",
+    "state": "West Bengal",
+    "zone": "SER",
+    "category": "A1",
+    "lat": 22.5184,
+    "lon": 83.7858
+  },
+  {
+    "code": "SR105",
+    "name": "New Kotganj",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "B",
+    "lat": 13.5874,
+    "lon": 77.8441
+  },
+  {
+    "code": "SC106",
+    "name": "Purvi Garhwara",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 17.4061,
+    "lon": 75.8753
+  },
+  {
+    "code": "SW107",
+    "name": "Naya Khedapuram",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "B",
+    "lat": 11.3292,
+    "lon": 77.8511
+  },
+  {
+    "code": "WR108",
+    "name": "Madhya Khedakheda",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "C",
+    "lat": 20.6626,
+    "lon": 75.3595
+  },
+  {
+    "code": "WC109",
+    "name": "Sant Khedagarh",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 23.8472,
+    "lon": 79.2674
+  },
+  {
+    "code": "CR110",
+    "name": "Purvi Abadabad",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A",
+    "lat": 17.0994,
+    "lon": 73.2167
+  },
+  {
+    "code": "NR111",
+    "name": "Purvi Ganjpur",
+    "state": "Himachal Pradesh",
+    "zone": "NR",
+    "category": "C",
+    "lat": 30.8256,
+    "lon": 76.2894
+  },
+  {
+    "code": "NW112",
+    "name": "Uttar Abadpuram",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 23.4983,
+    "lon": 71.634
+  },
+  {
+    "code": "NC113",
+    "name": "Sant Khedaabad",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A",
+    "lat": 26.3119,
+    "lon": 81.5334
+  },
+  {
+    "code": "NE114",
+    "name": "Sant Ganjnagar",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "A",
+    "lat": 29.0484,
+    "lon": 82.6653
+  },
+  {
+    "code": "NF115",
+    "name": "Madhya Puramwara",
+    "state": "Assam",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 27.8207,
+    "lon": 93.8981
+  },
+  {
+    "code": "ER116",
+    "name": "Sant Shaharshahar",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "C",
+    "lat": 20.0631,
+    "lon": 84.279
+  },
+  {
+    "code": "EC117",
+    "name": "Raja Kotkheda",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "A1",
+    "lat": 22.6393,
+    "lon": 88.7334
+  },
+  {
+    "code": "EC118",
+    "name": "Madhya Khedapur",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 16.2816,
+    "lon": 86.2939
+  },
+  {
+    "code": "SE119",
+    "name": "New Shaharwara",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "A",
+    "lat": 25.4786,
+    "lon": 83.5512
+  },
+  {
+    "code": "SR120",
+    "name": "New Nagarwara",
+    "state": "Kerala",
+    "zone": "SR",
+    "category": "C",
+    "lat": 9.3332,
+    "lon": 79.1909
+  },
+  {
+    "code": "SC121",
+    "name": "Naya Kotgarh",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "B",
+    "lat": 17.6381,
+    "lon": 78.3032
+  },
+  {
+    "code": "SW122",
+    "name": "Old Purwara",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "B",
+    "lat": 12.2668,
+    "lon": 73.3115
+  },
+  {
+    "code": "WR123",
+    "name": "Raja Shaharpur",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 18.3794,
+    "lon": 72.6291
+  },
+  {
+    "code": "WC124",
+    "name": "Madhya Warawara",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 21.3694,
+    "lon": 75.9171
+  },
+  {
+    "code": "CR125",
+    "name": "Sant Warawara",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A1",
+    "lat": 22.812,
+    "lon": 76.2621
+  },
+  {
+    "code": "NR126",
+    "name": "Shri Ganjpuram",
+    "state": "Jammu and Kashmir",
+    "zone": "NR",
+    "category": "A1",
+    "lat": 29.8658,
+    "lon": 73.6525
+  },
+  {
+    "code": "NW127",
+    "name": "Purvi Waranagar",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 29.5286,
+    "lon": 72.043
+  },
+  {
+    "code": "NC128",
+    "name": "Sant Garhwara",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "B",
+    "lat": 25.6975,
+    "lon": 78.0125
+  },
+  {
+    "code": "NE129",
+    "name": "Shri Khedashahar",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "A",
+    "lat": 25.4337,
+    "lon": 84.03
+  },
+  {
+    "code": "NF130",
+    "name": "Raja Kotshahar",
+    "state": "Meghalaya",
+    "zone": "NFR",
+    "category": "A1",
+    "lat": 24.9799,
+    "lon": 91.0899
+  },
+  {
+    "code": "ER131",
+    "name": "Madhya Khedawara",
+    "state": "West Bengal",
+    "zone": "ER",
+    "category": "C",
+    "lat": 23.2701,
+    "lon": 86.4159
+  },
+  {
+    "code": "EC132",
+    "name": "Old Shahargarh",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "B",
+    "lat": 28.0872,
+    "lon": 88.8654
+  },
+  {
+    "code": "EC133",
+    "name": "Shri Khedagarh",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 16.3055,
+    "lon": 86.2129
+  },
+  {
+    "code": "SE134",
+    "name": "Raja Garhganj",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "A1",
+    "lat": 19.3837,
+    "lon": 87.2575
+  },
+  {
+    "code": "SR135",
+    "name": "Rani Nagarwara",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "C",
+    "lat": 13.3731,
+    "lon": 74.6074
+  },
+  {
+    "code": "SC136",
+    "name": "Naya Garhganj",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 18.4707,
+    "lon": 77.3552
+  },
+  {
+    "code": "SW137",
+    "name": "Madhya Garhnagar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 13.1601,
+    "lon": 74.7166
+  },
+  {
+    "code": "WR138",
+    "name": "New Shaharpur",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "B",
+    "lat": 22.4181,
+    "lon": 75.4465
+  },
+  {
+    "code": "WC139",
+    "name": "Shri Nagargarh",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A",
+    "lat": 22.6057,
+    "lon": 79.858
+  },
+  {
+    "code": "CR140",
+    "name": "Uttar Purkot",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "B",
+    "lat": 18.5092,
+    "lon": 75.0148
+  },
+  {
+    "code": "NR141",
+    "name": "Shri Shahargarh",
+    "state": "Jammu and Kashmir",
+    "zone": "NR",
+    "category": "A",
+    "lat": 27.1899,
+    "lon": 73.5528
+  },
+  {
+    "code": "NW142",
+    "name": "Raja Khedaabad",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 24.0018,
+    "lon": 73.228
+  },
+  {
+    "code": "NC143",
+    "name": "Sant Warapuram",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 28.8085,
+    "lon": 81.7433
+  },
+  {
+    "code": "NE144",
+    "name": "Naya Nagarwara",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "C",
+    "lat": 25.5941,
+    "lon": 85.2342
+  },
+  {
+    "code": "NF145",
+    "name": "Sant Warapuram",
+    "state": "West Bengal",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 28.9733,
+    "lon": 89.7466
+  },
+  {
+    "code": "ER146",
+    "name": "Raja Khedakot",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "B",
+    "lat": 26.4488,
+    "lon": 86.0666
+  },
+  {
+    "code": "EC147",
+    "name": "Raja Purampur",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 27.2162,
+    "lon": 87.8299
+  },
+  {
+    "code": "EC148",
+    "name": "Sant Abadkheda",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "B",
+    "lat": 20.4563,
+    "lon": 85.3462
+  },
+  {
+    "code": "SE149",
+    "name": "Naya Nagarpur",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "C",
+    "lat": 18.7336,
+    "lon": 83.054
+  },
+  {
+    "code": "SR150",
+    "name": "Naya Nagarpuram",
+    "state": "Kerala",
+    "zone": "SR",
+    "category": "C",
+    "lat": 8.2295,
+    "lon": 75.4251
+  },
+  {
+    "code": "SC151",
+    "name": "Old Kotshahar",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "A",
+    "lat": 14.7988,
+    "lon": 81.2728
+  },
+  {
+    "code": "SW152",
+    "name": "New Puramkot",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 17.2403,
+    "lon": 73.4853
+  },
+  {
+    "code": "WR153",
+    "name": "Shri Garhshahar",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "A",
+    "lat": 23.5348,
+    "lon": 69.0974
+  },
+  {
+    "code": "WC154",
+    "name": "Old Nagarwara",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 23.5919,
+    "lon": 80.7569
+  },
+  {
+    "code": "CR155",
+    "name": "Rani Nagarabad",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A1",
+    "lat": 20.3368,
+    "lon": 78.6022
+  },
+  {
+    "code": "NR156",
+    "name": "Rani Khedaabad",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "C",
+    "lat": 32.3657,
+    "lon": 75.1153
+  },
+  {
+    "code": "NW157",
+    "name": "Raja Nagarganj",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A1",
+    "lat": 25.1306,
+    "lon": 73.4484
+  },
+  {
+    "code": "NC158",
+    "name": "Purvi Abadshahar",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 25.6755,
+    "lon": 81.6934
+  },
+  {
+    "code": "NE159",
+    "name": "Old Garhkheda",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "C",
+    "lat": 28.0845,
+    "lon": 84.3359
+  },
+  {
+    "code": "NF160",
+    "name": "Madhya Garhpuram",
+    "state": "Assam",
+    "zone": "NFR",
+    "category": "B",
+    "lat": 24.5209,
+    "lon": 92.1129
+  },
+  {
+    "code": "ER161",
+    "name": "Shri Kotnagar",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "B",
+    "lat": 23.3113,
+    "lon": 90.8449
+  },
+  {
+    "code": "EC162",
+    "name": "Rani Purgarh",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "B",
+    "lat": 28.7774,
+    "lon": 88.6431
+  },
+  {
+    "code": "EC163",
+    "name": "New Nagarabad",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "A1",
+    "lat": 21.5076,
+    "lon": 82.705
+  },
+  {
+    "code": "SE164",
+    "name": "Naya Khedaabad",
+    "state": "West Bengal",
+    "zone": "SER",
+    "category": "C",
+    "lat": 19.9501,
+    "lon": 82.0117
+  },
+  {
+    "code": "SR165",
+    "name": "Shri Kotganj",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "A1",
+    "lat": 8.9409,
+    "lon": 81.3882
+  },
+  {
+    "code": "SC166",
+    "name": "Naya Shaharpuram",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "A",
+    "lat": 17.6274,
+    "lon": 75.6805
+  },
+  {
+    "code": "SW167",
+    "name": "Uttar Kotabad",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A1",
+    "lat": 11.7197,
+    "lon": 72.8668
+  },
+  {
+    "code": "WR168",
+    "name": "Raja Shaharnagar",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "C",
+    "lat": 21.1379,
+    "lon": 71.5343
+  },
+  {
+    "code": "WC169",
+    "name": "Madhya Nagarwara",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 19.8036,
+    "lon": 80.4826
+  },
+  {
+    "code": "CR170",
+    "name": "Old Puramwara",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A1",
+    "lat": 22.9901,
+    "lon": 77.9311
+  },
+  {
+    "code": "NR171",
+    "name": "Raja Nagarwara",
+    "state": "Himachal Pradesh",
+    "zone": "NR",
+    "category": "A",
+    "lat": 32.2949,
+    "lon": 75.2548
+  },
+  {
+    "code": "NW172",
+    "name": "Naya Nagarganj",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 27.4315,
+    "lon": 73.8385
+  },
+  {
+    "code": "NC173",
+    "name": "Rani Garhkheda",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 26.0389,
+    "lon": 80.0114
+  },
+  {
+    "code": "NE174",
+    "name": "Purvi Shaharabad",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "C",
+    "lat": 29.7166,
+    "lon": 81.3967
+  },
+  {
+    "code": "NF175",
+    "name": "New Garhgarh",
+    "state": "Assam",
+    "zone": "NFR",
+    "category": "B",
+    "lat": 25.9873,
+    "lon": 93.6558
+  },
+  {
+    "code": "ER176",
+    "name": "Rani Ganjwara",
+    "state": "West Bengal",
+    "zone": "ER",
+    "category": "A",
+    "lat": 25.3224,
+    "lon": 84.6526
+  },
+  {
+    "code": "EC177",
+    "name": "Purvi Kotganj",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 28.6964,
+    "lon": 85.9318
+  },
+  {
+    "code": "EC178",
+    "name": "Purvi Garhkot",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "A1",
+    "lat": 22.7788,
+    "lon": 85.2029
+  },
+  {
+    "code": "SE179",
+    "name": "Rani Nagarkheda",
+    "state": "Odisha",
+    "zone": "SER",
+    "category": "A",
+    "lat": 23.0972,
+    "lon": 82.0697
+  },
+  {
+    "code": "SR180",
+    "name": "Purvi Kotshahar",
+    "state": "Kerala",
+    "zone": "SR",
+    "category": "A",
+    "lat": 12.3382,
+    "lon": 78.5187
+  },
+  {
+    "code": "SC181",
+    "name": "Raja Shaharkheda",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 19.5036,
+    "lon": 81.3062
+  },
+  {
+    "code": "SW182",
+    "name": "Sant Purganj",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "B",
+    "lat": 16.9508,
+    "lon": 74.9572
+  },
+  {
+    "code": "WR183",
+    "name": "Naya Ganjkheda",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "A",
+    "lat": 18.9931,
+    "lon": 73.4322
+  },
+  {
+    "code": "WC184",
+    "name": "Uttar Nagarshahar",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 22.4388,
+    "lon": 77.3863
+  },
+  {
+    "code": "CR185",
+    "name": "Rani Puramkot",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A1",
+    "lat": 17.0891,
+    "lon": 77.2811
+  },
+  {
+    "code": "NR186",
+    "name": "Uttar Nagarpuram",
+    "state": "Himachal Pradesh",
+    "zone": "NR",
+    "category": "C",
+    "lat": 29.3996,
+    "lon": 76.0943
+  },
+  {
+    "code": "NW187",
+    "name": "Sant Abadshahar",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 26.0094,
+    "lon": 71.9827
+  },
+  {
+    "code": "NC188",
+    "name": "Madhya Warashahar",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A1",
+    "lat": 24.0436,
+    "lon": 83.8911
+  },
+  {
+    "code": "NE189",
+    "name": "Uttar Purabad",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "B",
+    "lat": 28.8714,
+    "lon": 83.8491
+  },
+  {
+    "code": "NF190",
+    "name": "Sant Kotnagar",
+    "state": "Assam",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 28.2291,
+    "lon": 90.2299
+  },
+  {
+    "code": "ER191",
+    "name": "Raja Shaharabad",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "C",
+    "lat": 25.3335,
+    "lon": 89.6434
+  },
+  {
+    "code": "EC192",
+    "name": "Purvi Garhpur",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "A1",
+    "lat": 25.2183,
+    "lon": 82.545
+  },
+  {
+    "code": "EC193",
+    "name": "Rani Khedagarh",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 18.0266,
+    "lon": 83.8352
+  },
+  {
+    "code": "SE194",
+    "name": "Rani Ganjkheda",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "B",
+    "lat": 19.1169,
+    "lon": 86.4114
+  },
+  {
+    "code": "SR195",
+    "name": "Shri Garhkheda",
+    "state": "Kerala",
+    "zone": "SR",
+    "category": "C",
+    "lat": 7.5505,
+    "lon": 80.5937
+  },
+  {
+    "code": "SC196",
+    "name": "Rani Abadkot",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "A",
+    "lat": 16.5734,
+    "lon": 76.2982
+  },
+  {
+    "code": "SW197",
+    "name": "Old Abadkot",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A",
+    "lat": 12.1539,
+    "lon": 73.5251
+  },
+  {
+    "code": "WR198",
+    "name": "Shri Ganjkheda",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "A",
+    "lat": 19.24,
+    "lon": 74.4099
+  },
+  {
+    "code": "WC199",
+    "name": "New Warakheda",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 24.0009,
+    "lon": 81.9057
+  },
+  {
+    "code": "CR200",
+    "name": "Rani Kotganj",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A",
+    "lat": 19.2824,
+    "lon": 76.4197
+  },
+  {
+    "code": "NR201",
+    "name": "Sant Khedapur",
+    "state": "Punjab",
+    "zone": "NR",
+    "category": "C",
+    "lat": 26.5193,
+    "lon": 76.2322
+  },
+  {
+    "code": "NW202",
+    "name": "Uttar Purkot",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A",
+    "lat": 27.5127,
+    "lon": 76.8416
+  },
+  {
+    "code": "NC203",
+    "name": "Purvi Khedakheda",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 26.5623,
+    "lon": 83.6796
+  },
+  {
+    "code": "NE204",
+    "name": "Uttar Warakheda",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "B",
+    "lat": 27.735,
+    "lon": 82.0096
+  },
+  {
+    "code": "NF205",
+    "name": "Uttar Waranagar",
+    "state": "Meghalaya",
+    "zone": "NFR",
+    "category": "A",
+    "lat": 26.5318,
+    "lon": 90.2079
+  },
+  {
+    "code": "ER206",
+    "name": "Shri Warawara",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "C",
+    "lat": 23.7686,
+    "lon": 86.5473
+  },
+  {
+    "code": "EC207",
+    "name": "Sant Garhgarh",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 22.3666,
+    "lon": 86.4162
+  },
+  {
+    "code": "EC208",
+    "name": "Rani Nagarkot",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 20.7487,
+    "lon": 82.989
+  },
+  {
+    "code": "SE209",
+    "name": "Madhya Ganjkot",
+    "state": "West Bengal",
+    "zone": "SER",
+    "category": "C",
+    "lat": 23.1453,
+    "lon": 86.9172
+  },
+  {
+    "code": "SR210",
+    "name": "Sant Garhganj",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "A",
+    "lat": 9.1671,
+    "lon": 77.1368
+  },
+  {
+    "code": "SC211",
+    "name": "Rani Ganjshahar",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 16.5594,
+    "lon": 75.6276
+  },
+  {
+    "code": "SW212",
+    "name": "Sant Ganjabad",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 11.844,
+    "lon": 79.4998
+  },
+  {
+    "code": "WR213",
+    "name": "Naya Nagarpuram",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "C",
+    "lat": 23.3961,
+    "lon": 74.8458
+  },
+  {
+    "code": "WC214",
+    "name": "Old Purkot",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 22.137,
+    "lon": 76.1357
+  },
+  {
+    "code": "CR215",
+    "name": "Madhya Ganjwara",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 18.5501,
+    "lon": 77.0371
+  },
+  {
+    "code": "NR216",
+    "name": "New Khedapuram",
+    "state": "Himachal Pradesh",
+    "zone": "NR",
+    "category": "B",
+    "lat": 29.7381,
+    "lon": 75.1663
+  },
+  {
+    "code": "NW217",
+    "name": "New Abadkot",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 28.3861,
+    "lon": 75.4469
+  },
+  {
+    "code": "NC218",
+    "name": "Old Shahargarh",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "B",
+    "lat": 28.1088,
+    "lon": 77.9688
+  },
+  {
+    "code": "NE219",
+    "name": "Sant Purwara",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "C",
+    "lat": 30.0401,
+    "lon": 83.4798
+  },
+  {
+    "code": "NF220",
+    "name": "Old Nagarpuram",
+    "state": "Assam",
+    "zone": "NFR",
+    "category": "A",
+    "lat": 24.9095,
+    "lon": 95.3371
+  },
+  {
+    "code": "ER221",
+    "name": "Naya Garhnagar",
+    "state": "West Bengal",
+    "zone": "ER",
+    "category": "C",
+    "lat": 25.6924,
+    "lon": 90.5133
+  },
+  {
+    "code": "EC222",
+    "name": "Raja Purgarh",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "B",
+    "lat": 24.7032,
+    "lon": 82.5712
+  },
+  {
+    "code": "EC223",
+    "name": "Shri Purkot",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "B",
+    "lat": 21.5397,
+    "lon": 81.9632
+  },
+  {
+    "code": "SE224",
+    "name": "Sant Waraganj",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "C",
+    "lat": 22.8074,
+    "lon": 86.841
+  },
+  {
+    "code": "SR225",
+    "name": "Uttar Puramabad",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "C",
+    "lat": 13.5816,
+    "lon": 78.7622
+  },
+  {
+    "code": "SC226",
+    "name": "Raja Nagarpuram",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "B",
+    "lat": 13.8529,
+    "lon": 77.1691
+  },
+  {
+    "code": "SW227",
+    "name": "Madhya Waranagar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 14.6772,
+    "lon": 72.615
+  },
+  {
+    "code": "WR228",
+    "name": "Old Khedaabad",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "B",
+    "lat": 21.0047,
+    "lon": 73.3037
+  },
+  {
+    "code": "WC229",
+    "name": "Shri Khedagarh",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A",
+    "lat": 23.1644,
+    "lon": 77.5242
+  },
+  {
+    "code": "CR230",
+    "name": "Old Shaharshahar",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 22.1133,
+    "lon": 72.3047
+  },
+  {
+    "code": "NR231",
+    "name": "Raja Kotpuram",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "B",
+    "lat": 31.5196,
+    "lon": 75.4136
+  },
+  {
+    "code": "NW232",
+    "name": "Purvi Khedakot",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A1",
+    "lat": 25.4661,
+    "lon": 72.3698
+  },
+  {
+    "code": "NC233",
+    "name": "Naya Warawara",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A",
+    "lat": 22.9417,
+    "lon": 82.4333
+  },
+  {
+    "code": "NE234",
+    "name": "New Purpuram",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "A1",
+    "lat": 29.0378,
+    "lon": 84.7005
+  },
+  {
+    "code": "NF235",
+    "name": "Rani Puramshahar",
+    "state": "Nagaland",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 26.3138,
+    "lon": 89.2563
+  },
+  {
+    "code": "ER236",
+    "name": "Shri Puramkot",
+    "state": "West Bengal",
+    "zone": "ER",
+    "category": "B",
+    "lat": 21.4125,
+    "lon": 89.5954
+  },
+  {
+    "code": "EC237",
+    "name": "Raja Garhwara",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "B",
+    "lat": 28.8161,
+    "lon": 85.4734
+  },
+  {
+    "code": "EC238",
+    "name": "New Kotshahar",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "A",
+    "lat": 21.0896,
+    "lon": 81.5525
+  },
+  {
+    "code": "SE239",
+    "name": "Madhya Ganjshahar",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "B",
+    "lat": 19.2182,
+    "lon": 82.7954
+  },
+  {
+    "code": "SR240",
+    "name": "Sant Puramwara",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "C",
+    "lat": 8.1665,
+    "lon": 77.6074
+  },
+  {
+    "code": "SC241",
+    "name": "New Purkot",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "B",
+    "lat": 17.4763,
+    "lon": 81.0403
+  },
+  {
+    "code": "SW242",
+    "name": "Uttar Nagargarh",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 16.1077,
+    "lon": 77.2559
+  },
+  {
+    "code": "WR243",
+    "name": "Uttar Ganjkheda",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "A1",
+    "lat": 18.8836,
+    "lon": 70.652
+  },
+  {
+    "code": "WC244",
+    "name": "Rani Kotgarh",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 20.5741,
+    "lon": 78.1495
+  },
+  {
+    "code": "CR245",
+    "name": "Rani Kotwara",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 16.9639,
+    "lon": 74.5686
+  },
+  {
+    "code": "NR246",
+    "name": "Rani Puramabad",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "A1",
+    "lat": 31.1497,
+    "lon": 76.4933
+  },
+  {
+    "code": "NW247",
+    "name": "Raja Shaharnagar",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 27.9283,
+    "lon": 71.502
+  },
+  {
+    "code": "NC248",
+    "name": "Madhya Puramwara",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A",
+    "lat": 23.4501,
+    "lon": 77.5184
+  },
+  {
+    "code": "NE249",
+    "name": "Naya Waranagar",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "B",
+    "lat": 28.4668,
+    "lon": 82.35
+  },
+  {
+    "code": "NF250",
+    "name": "Sant Puramganj",
+    "state": "West Bengal",
+    "zone": "NFR",
+    "category": "B",
+    "lat": 26.5613,
+    "lon": 89.8495
+  },
+  {
+    "code": "ER251",
+    "name": "Shri Ganjabad",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "A1",
+    "lat": 22.0263,
+    "lon": 88.0059
+  },
+  {
+    "code": "EC252",
+    "name": "New Shaharganj",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "A",
+    "lat": 24.165,
+    "lon": 88.9972
+  },
+  {
+    "code": "EC253",
+    "name": "New Shahargarh",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 16.5163,
+    "lon": 87.8067
+  },
+  {
+    "code": "SE254",
+    "name": "Purvi Warawara",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "A",
+    "lat": 24.6457,
+    "lon": 85.9618
+  },
+  {
+    "code": "SR255",
+    "name": "Madhya Ganjganj",
+    "state": "Kerala",
+    "zone": "SR",
+    "category": "C",
+    "lat": 13.375,
+    "lon": 74.8879
+  },
+  {
+    "code": "SC256",
+    "name": "Purvi Shaharganj",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "A",
+    "lat": 14.1338,
+    "lon": 82.0432
+  },
+  {
+    "code": "SW257",
+    "name": "Shri Kotshahar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A",
+    "lat": 12.2542,
+    "lon": 76.9454
+  },
+  {
+    "code": "WR258",
+    "name": "Old Puramganj",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 21.7343,
+    "lon": 72.518
+  },
+  {
+    "code": "WC259",
+    "name": "Naya Khedakheda",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A",
+    "lat": 24.1111,
+    "lon": 80.0444
+  },
+  {
+    "code": "CR260",
+    "name": "Madhya Kotkheda",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A1",
+    "lat": 16.5686,
+    "lon": 78.6398
+  },
+  {
+    "code": "NR261",
+    "name": "Madhya Puramabad",
+    "state": "Jammu and Kashmir",
+    "zone": "NR",
+    "category": "C",
+    "lat": 30.3268,
+    "lon": 73.212
+  },
+  {
+    "code": "NW262",
+    "name": "Old Purampuram",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 28.6328,
+    "lon": 74.7949
+  },
+  {
+    "code": "NC263",
+    "name": "Sant Waranagar",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A",
+    "lat": 25.5772,
+    "lon": 80.3898
+  },
+  {
+    "code": "NE264",
+    "name": "Shri Kotkheda",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "B",
+    "lat": 29.5304,
+    "lon": 80.7352
+  },
+  {
+    "code": "NF265",
+    "name": "Rani Garhganj",
+    "state": "Meghalaya",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 26.9316,
+    "lon": 91.2338
+  },
+  {
+    "code": "ER266",
+    "name": "New Nagarpuram",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "B",
+    "lat": 20.4861,
+    "lon": 84.3542
+  },
+  {
+    "code": "EC267",
+    "name": "Raja Khedagarh",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "A",
+    "lat": 27.6943,
+    "lon": 88.5363
+  },
+  {
+    "code": "EC268",
+    "name": "Rani Abadganj",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 19.2677,
+    "lon": 87.1535
+  },
+  {
+    "code": "SE269",
+    "name": "New Purnagar",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "C",
+    "lat": 21.7006,
+    "lon": 82.1851
+  },
+  {
+    "code": "SR270",
+    "name": "Madhya Kotpur",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "B",
+    "lat": 10.4643,
+    "lon": 80.6764
+  },
+  {
+    "code": "SC271",
+    "name": "New Puramshahar",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "A",
+    "lat": 16.0165,
+    "lon": 81.6772
+  },
+  {
+    "code": "SW272",
+    "name": "Rani Garhkot",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 10.8581,
+    "lon": 76.4327
+  },
+  {
+    "code": "WR273",
+    "name": "Rani Shaharpuram",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "C",
+    "lat": 21.5298,
+    "lon": 74.3508
+  },
+  {
+    "code": "WC274",
+    "name": "Sant Khedakheda",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A",
+    "lat": 26.3256,
+    "lon": 77.7573
+  },
+  {
+    "code": "CR275",
+    "name": "Rani Shaharkot",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "B",
+    "lat": 20.2172,
+    "lon": 74.8097
+  },
+  {
+    "code": "NR276",
+    "name": "Uttar Purpur",
+    "state": "Haryana",
+    "zone": "NR",
+    "category": "B",
+    "lat": 31.6278,
+    "lon": 76.6353
+  },
+  {
+    "code": "NW277",
+    "name": "Naya Khedashahar",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 29.5196,
+    "lon": 72.2297
+  },
+  {
+    "code": "NC278",
+    "name": "Raja Khedapuram",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 28.298,
+    "lon": 80.7264
+  },
+  {
+    "code": "NE279",
+    "name": "Madhya Puramwara",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "B",
+    "lat": 25.8187,
+    "lon": 79.2672
+  },
+  {
+    "code": "NF280",
+    "name": "Raja Khedapuram",
+    "state": "Assam",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 26.3221,
+    "lon": 95.7695
+  },
+  {
+    "code": "ER281",
+    "name": "Madhya Khedaabad",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "A1",
+    "lat": 23.5847,
+    "lon": 85.1936
+  },
+  {
+    "code": "EC282",
+    "name": "Madhya Garhganj",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "A1",
+    "lat": 26.008,
+    "lon": 86.9036
+  },
+  {
+    "code": "EC283",
+    "name": "Shri Purwara",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 17.06,
+    "lon": 85.8335
+  },
+  {
+    "code": "SE284",
+    "name": "Raja Shaharkheda",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "A1",
+    "lat": 23.4404,
+    "lon": 84.1308
+  },
+  {
+    "code": "SR285",
+    "name": "Old Kotwara",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "C",
+    "lat": 9.1963,
+    "lon": 75.7123
+  },
+  {
+    "code": "SC286",
+    "name": "Old Kotshahar",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "B",
+    "lat": 17.2705,
+    "lon": 76.8458
+  },
+  {
+    "code": "SW287",
+    "name": "Shri Puramshahar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "B",
+    "lat": 17.0904,
+    "lon": 79.3758
+  },
+  {
+    "code": "WR288",
+    "name": "Sant Abadwara",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 20.4416,
+    "lon": 75.5359
+  },
+  {
+    "code": "WC289",
+    "name": "Sant Puramnagar",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 25.2286,
+    "lon": 81.6823
+  },
+  {
+    "code": "CR290",
+    "name": "Naya Purampur",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A",
+    "lat": 18.4245,
+    "lon": 75.0966
+  },
+  {
+    "code": "NR291",
+    "name": "Sant Waraabad",
+    "state": "Haryana",
+    "zone": "NR",
+    "category": "C",
+    "lat": 27.8979,
+    "lon": 76.9341
+  },
+  {
+    "code": "NW292",
+    "name": "Sant Ganjnagar",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 23.3554,
+    "lon": 76.3363
+  },
+  {
+    "code": "NC293",
+    "name": "Shri Abadpur",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 24.8121,
+    "lon": 80.3068
+  },
+  {
+    "code": "NE294",
+    "name": "Naya Purshahar",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "C",
+    "lat": 28.0702,
+    "lon": 84.6645
+  },
+  {
+    "code": "NF295",
+    "name": "New Waraabad",
+    "state": "Meghalaya",
+    "zone": "NFR",
+    "category": "B",
+    "lat": 24.9979,
+    "lon": 89.4141
+  },
+  {
+    "code": "ER296",
+    "name": "Purvi Khedaabad",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "A1",
+    "lat": 25.8926,
+    "lon": 85.2255
+  },
+  {
+    "code": "EC297",
+    "name": "Naya Purgarh",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "A",
+    "lat": 28.5563,
+    "lon": 88.7349
+  },
+  {
+    "code": "EC298",
+    "name": "Sant Purpur",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 20.2195,
+    "lon": 87.4992
+  },
+  {
+    "code": "SE299",
+    "name": "Rani Puramwara",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "A",
+    "lat": 24.4574,
+    "lon": 83.7761
+  },
+  {
+    "code": "SR300",
+    "name": "Shri Nagarkot",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "C",
+    "lat": 11.538,
+    "lon": 79.5302
+  },
+  {
+    "code": "SC301",
+    "name": "Uttar Kotpuram",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "A",
+    "lat": 17.2767,
+    "lon": 79.9711
+  },
+  {
+    "code": "SW302",
+    "name": "Raja Garhshahar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A",
+    "lat": 13.3058,
+    "lon": 73.1677
+  },
+  {
+    "code": "WR303",
+    "name": "Naya Warakot",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "A1",
+    "lat": 19.8255,
+    "lon": 70.6486
+  },
+  {
+    "code": "WC304",
+    "name": "Sant Kotpuram",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 24.0758,
+    "lon": 79.8494
+  },
+  {
+    "code": "CR305",
+    "name": "Uttar Nagarwara",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A",
+    "lat": 18.8379,
+    "lon": 75.5176
+  },
+  {
+    "code": "NR306",
+    "name": "Sant Nagarpuram",
+    "state": "Punjab",
+    "zone": "NR",
+    "category": "C",
+    "lat": 27.5459,
+    "lon": 79.7015
+  },
+  {
+    "code": "NW307",
+    "name": "New Ganjwara",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 27.9136,
+    "lon": 76.3896
+  },
+  {
+    "code": "NC308",
+    "name": "Old Abadabad",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 25.6272,
+    "lon": 81.9264
+  },
+  {
+    "code": "NE309",
+    "name": "Purvi Khedanagar",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "C",
+    "lat": 29.8202,
+    "lon": 79.9151
+  },
+  {
+    "code": "NF310",
+    "name": "Old Ganjganj",
+    "state": "Meghalaya",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 26.0929,
+    "lon": 93.7621
+  },
+  {
+    "code": "ER311",
+    "name": "Madhya Waranagar",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "C",
+    "lat": 25.1608,
+    "lon": 87.174
+  },
+  {
+    "code": "EC312",
+    "name": "Old Garhwara",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 25.2366,
+    "lon": 87.6484
+  },
+  {
+    "code": "EC313",
+    "name": "Uttar Garhpuram",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "B",
+    "lat": 20.0482,
+    "lon": 81.317
+  },
+  {
+    "code": "SE314",
+    "name": "Rani Nagarshahar",
+    "state": "West Bengal",
+    "zone": "SER",
+    "category": "A",
+    "lat": 25.403,
+    "lon": 83.8045
+  },
+  {
+    "code": "SR315",
+    "name": "Sant Garhganj",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "C",
+    "lat": 9.6212,
+    "lon": 80.7393
+  },
+  {
+    "code": "SC316",
+    "name": "New Garhgarh",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 13.9309,
+    "lon": 81.522
+  },
+  {
+    "code": "SW317",
+    "name": "Purvi Ganjshahar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 11.3914,
+    "lon": 79.3511
+  },
+  {
+    "code": "WR318",
+    "name": "Uttar Purpuram",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 20.9689,
+    "lon": 71.6549
+  },
+  {
+    "code": "WC319",
+    "name": "Shri Abadwara",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A",
+    "lat": 21.4295,
+    "lon": 81.5619
+  },
+  {
+    "code": "CR320",
+    "name": "Purvi Purgarh",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "B",
+    "lat": 17.4426,
+    "lon": 72.7063
+  },
+  {
+    "code": "NR321",
+    "name": "Uttar Warakheda",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "B",
+    "lat": 31.1838,
+    "lon": 75.8159
+  },
+  {
+    "code": "NW322",
+    "name": "Shri Shaharabad",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A",
+    "lat": 26.5273,
+    "lon": 72.0248
+  },
+  {
+    "code": "NC323",
+    "name": "Madhya Kotkheda",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "B",
+    "lat": 24.6124,
+    "lon": 78.0028
+  },
+  {
+    "code": "NE324",
+    "name": "Old Abadgarh",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "B",
+    "lat": 23.9267,
+    "lon": 85.1396
+  },
+  {
+    "code": "NF325",
+    "name": "Naya Garhshahar",
+    "state": "Nagaland",
+    "zone": "NFR",
+    "category": "A1",
+    "lat": 29.806,
+    "lon": 95.5911
+  },
+  {
+    "code": "ER326",
+    "name": "Raja Shaharkot",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "C",
+    "lat": 22.3578,
+    "lon": 86.0992
+  },
+  {
+    "code": "EC327",
+    "name": "Naya Shaharwara",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "B",
+    "lat": 24.1052,
+    "lon": 86.953
+  },
+  {
+    "code": "EC328",
+    "name": "New Purshahar",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 19.901,
+    "lon": 81.9386
+  },
+  {
+    "code": "SE329",
+    "name": "Shri Puramabad",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "A",
+    "lat": 24.9556,
+    "lon": 86.4299
+  },
+  {
+    "code": "SR330",
+    "name": "Purvi Shaharabad",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "B",
+    "lat": 9.6402,
+    "lon": 78.7348
+  },
+  {
+    "code": "SC331",
+    "name": "Uttar Nagarabad",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 14.4622,
+    "lon": 81.8492
+  },
+  {
+    "code": "SW332",
+    "name": "Sant Purabad",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A",
+    "lat": 15.7282,
+    "lon": 77.7803
+  },
+  {
+    "code": "WR333",
+    "name": "Shri Khedaabad",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "B",
+    "lat": 21.8646,
+    "lon": 74.4286
+  },
+  {
+    "code": "WC334",
+    "name": "Raja Warashahar",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 21.3309,
+    "lon": 78.5897
+  },
+  {
+    "code": "CR335",
+    "name": "New Waranagar",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "B",
+    "lat": 22.4003,
+    "lon": 74.5949
+  },
+  {
+    "code": "NR336",
+    "name": "Raja Purkheda",
+    "state": "Haryana",
+    "zone": "NR",
+    "category": "A",
+    "lat": 26.1135,
+    "lon": 76.8732
+  },
+  {
+    "code": "NW337",
+    "name": "Madhya Khedagarh",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A",
+    "lat": 24.3733,
+    "lon": 71.6101
+  },
+  {
+    "code": "NC338",
+    "name": "Madhya Abadwara",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "B",
+    "lat": 27.8435,
+    "lon": 80.4203
+  },
+  {
+    "code": "NE339",
+    "name": "New Waraganj",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "A",
+    "lat": 24.4797,
+    "lon": 82.3258
+  },
+  {
+    "code": "NF340",
+    "name": "Naya Shaharpur",
+    "state": "Tripura",
+    "zone": "NFR",
+    "category": "A1",
+    "lat": 28.8735,
+    "lon": 89.5203
+  },
+  {
+    "code": "ER341",
+    "name": "Uttar Purgarh",
+    "state": "West Bengal",
+    "zone": "ER",
+    "category": "B",
+    "lat": 19.9758,
+    "lon": 85.0572
+  },
+  {
+    "code": "EC342",
+    "name": "Shri Shaharwara",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "A1",
+    "lat": 26.3248,
+    "lon": 86.6673
+  },
+  {
+    "code": "EC343",
+    "name": "Madhya Warawara",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "A1",
+    "lat": 19.7255,
+    "lon": 83.8794
+  },
+  {
+    "code": "SE344",
+    "name": "Uttar Shaharpuram",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "A1",
+    "lat": 22.0155,
+    "lon": 85.385
+  },
+  {
+    "code": "SR345",
+    "name": "Raja Ganjnagar",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "C",
+    "lat": 8.0423,
+    "lon": 75.8435
+  },
+  {
+    "code": "SC346",
+    "name": "Old Puramkot",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 13.5531,
+    "lon": 82.2151
+  },
+  {
+    "code": "SW347",
+    "name": "New Khedaabad",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "B",
+    "lat": 15.2883,
+    "lon": 78.4351
+  },
+  {
+    "code": "WR348",
+    "name": "Uttar Nagargarh",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 21.8689,
+    "lon": 69.3928
+  },
+  {
+    "code": "WC349",
+    "name": "Uttar Ganjnagar",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 24.0144,
+    "lon": 77.3189
+  },
+  {
+    "code": "CR350",
+    "name": "Purvi Shaharpur",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "B",
+    "lat": 22.3089,
+    "lon": 76.846
+  },
+  {
+    "code": "NR351",
+    "name": "Madhya Warapuram",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "A",
+    "lat": 30.791,
+    "lon": 74.9626
+  },
+  {
+    "code": "NW352",
+    "name": "Old Khedapur",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 23.1096,
+    "lon": 71.4501
+  },
+  {
+    "code": "NC353",
+    "name": "Naya Garhnagar",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A",
+    "lat": 26.4477,
+    "lon": 80.9669
+  },
+  {
+    "code": "NE354",
+    "name": "Raja Shaharkot",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "A",
+    "lat": 29.0335,
+    "lon": 83.3252
+  },
+  {
+    "code": "NF355",
+    "name": "Purvi Shaharkot",
+    "state": "Assam",
+    "zone": "NFR",
+    "category": "A",
+    "lat": 26.0596,
+    "lon": 94.8707
+  },
+  {
+    "code": "ER356",
+    "name": "Rani Khedakheda",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "C",
+    "lat": 26.2824,
+    "lon": 86.2846
+  },
+  {
+    "code": "EC357",
+    "name": "Sant Warawara",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "B",
+    "lat": 25.8713,
+    "lon": 84.628
+  },
+  {
+    "code": "EC358",
+    "name": "Naya Khedagarh",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 18.0677,
+    "lon": 82.7251
+  },
+  {
+    "code": "SE359",
+    "name": "Purvi Nagarpuram",
+    "state": "Odisha",
+    "zone": "SER",
+    "category": "C",
+    "lat": 23.4817,
+    "lon": 84.9373
+  },
+  {
+    "code": "SR360",
+    "name": "Raja Kotkot",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "A",
+    "lat": 7.0364,
+    "lon": 76.6579
+  },
+  {
+    "code": "SC361",
+    "name": "Rani Puramnagar",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "A",
+    "lat": 14.3117,
+    "lon": 78.6419
+  },
+  {
+    "code": "SW362",
+    "name": "Old Shahargarh",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A1",
+    "lat": 11.1273,
+    "lon": 76.3795
+  },
+  {
+    "code": "WR363",
+    "name": "Madhya Khedakot",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "A1",
+    "lat": 20.0429,
+    "lon": 71.7146
+  },
+  {
+    "code": "WC364",
+    "name": "Purvi Shaharabad",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 20.6865,
+    "lon": 76.8824
+  },
+  {
+    "code": "CR365",
+    "name": "Sant Waraganj",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A",
+    "lat": 19.0427,
+    "lon": 74.9477
+  },
+  {
+    "code": "NR366",
+    "name": "New Nagarkot",
+    "state": "Punjab",
+    "zone": "NR",
+    "category": "B",
+    "lat": 31.0463,
+    "lon": 76.4706
+  },
+  {
+    "code": "NW367",
+    "name": "Madhya Abadwara",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A",
+    "lat": 25.1326,
+    "lon": 76.6418
+  },
+  {
+    "code": "NC368",
+    "name": "Rani Khedagarh",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 24.8432,
+    "lon": 82.7083
+  },
+  {
+    "code": "NE369",
+    "name": "Madhya Ganjpuram",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "C",
+    "lat": 30.131,
+    "lon": 79.906
+  },
+  {
+    "code": "NF370",
+    "name": "Rani Ganjgarh",
+    "state": "Meghalaya",
+    "zone": "NFR",
+    "category": "B",
+    "lat": 28.1441,
+    "lon": 93.4303
+  },
+  {
+    "code": "ER371",
+    "name": "Madhya Abadkot",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "B",
+    "lat": 25.2155,
+    "lon": 86.7505
+  },
+  {
+    "code": "EC372",
+    "name": "Purvi Khedaabad",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 22.1884,
+    "lon": 87.0905
+  },
+  {
+    "code": "EC373",
+    "name": "Shri Warapuram",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 20.7108,
+    "lon": 81.9743
+  },
+  {
+    "code": "SE374",
+    "name": "Sant Abadpuram",
+    "state": "Odisha",
+    "zone": "SER",
+    "category": "C",
+    "lat": 24.0235,
+    "lon": 81.0178
+  },
+  {
+    "code": "SR375",
+    "name": "Madhya Warakheda",
+    "state": "Kerala",
+    "zone": "SR",
+    "category": "C",
+    "lat": 10.5463,
+    "lon": 80.9427
+  },
+  {
+    "code": "SC376",
+    "name": "Raja Shaharpur",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 17.1567,
+    "lon": 81.9008
+  },
+  {
+    "code": "SW377",
+    "name": "Purvi Abadkot",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 10.8101,
+    "lon": 79.3853
+  },
+  {
+    "code": "WR378",
+    "name": "Raja Kotgarh",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "A1",
+    "lat": 18.6902,
+    "lon": 70.554
+  },
+  {
+    "code": "WC379",
+    "name": "Old Shaharkheda",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 22.1188,
+    "lon": 78.2414
+  },
+  {
+    "code": "CR380",
+    "name": "Madhya Shaharganj",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A1",
+    "lat": 19.3794,
+    "lon": 74.068
+  },
+  {
+    "code": "NR381",
+    "name": "Purvi Nagarganj",
+    "state": "Punjab",
+    "zone": "NR",
+    "category": "B",
+    "lat": 28.4015,
+    "lon": 78.4899
+  },
+  {
+    "code": "NW382",
+    "name": "Old Warakot",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A",
+    "lat": 26.0672,
+    "lon": 74.8773
+  },
+  {
+    "code": "NC383",
+    "name": "Rani Nagarpuram",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A",
+    "lat": 22.6581,
+    "lon": 79.4015
+  },
+  {
+    "code": "NE384",
+    "name": "Purvi Ganjabad",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "C",
+    "lat": 24.6209,
+    "lon": 82.4189
+  },
+  {
+    "code": "NF385",
+    "name": "New Abadgarh",
+    "state": "West Bengal",
+    "zone": "NFR",
+    "category": "A",
+    "lat": 27.4834,
+    "lon": 92.0249
+  },
+  {
+    "code": "ER386",
+    "name": "Uttar Khedaabad",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "C",
+    "lat": 22.5069,
+    "lon": 84.0312
+  },
+  {
+    "code": "EC387",
+    "name": "Shri Abadpuram",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 22.7123,
+    "lon": 88.1039
+  },
+  {
+    "code": "EC388",
+    "name": "Naya Kotkot",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 16.7977,
+    "lon": 85.6949
+  },
+  {
+    "code": "SE389",
+    "name": "New Shaharkot",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "C",
+    "lat": 21.2478,
+    "lon": 81.2996
+  },
+  {
+    "code": "SR390",
+    "name": "Rani Warakheda",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "B",
+    "lat": 13.4308,
+    "lon": 78.6312
+  },
+  {
+    "code": "SC391",
+    "name": "Naya Kotnagar",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "B",
+    "lat": 13.8186,
+    "lon": 78.1131
+  },
+  {
+    "code": "SW392",
+    "name": "Naya Shahargarh",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 11.4651,
+    "lon": 75.186
+  },
+  {
+    "code": "WR393",
+    "name": "Naya Warashahar",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "C",
+    "lat": 19.1681,
+    "lon": 71.0218
+  },
+  {
+    "code": "WC394",
+    "name": "Naya Kotwara",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 26.1629,
+    "lon": 78.3923
+  },
+  {
+    "code": "CR395",
+    "name": "Shri Garhshahar",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 20.7929,
+    "lon": 74.9094
+  },
+  {
+    "code": "NR396",
+    "name": "New Waraganj",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "C",
+    "lat": 26.216,
+    "lon": 78.3274
+  },
+  {
+    "code": "NW397",
+    "name": "Sant Purpuram",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 25.0207,
+    "lon": 75.4652
+  },
+  {
+    "code": "NC398",
+    "name": "Madhya Warashahar",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 23.2994,
+    "lon": 82.4258
+  },
+  {
+    "code": "NE399",
+    "name": "Rani Shaharpur",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "C",
+    "lat": 25.0298,
+    "lon": 81.4761
+  },
+  {
+    "code": "NF400",
+    "name": "Shri Purampur",
+    "state": "Nagaland",
+    "zone": "NFR",
+    "category": "B",
+    "lat": 25.44,
+    "lon": 94.7171
+  },
+  {
+    "code": "ER401",
+    "name": "New Nagarabad",
+    "state": "West Bengal",
+    "zone": "ER",
+    "category": "C",
+    "lat": 24.3239,
+    "lon": 90.0273
+  },
+  {
+    "code": "EC402",
+    "name": "Madhya Garhganj",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "B",
+    "lat": 27.6947,
+    "lon": 87.6381
+  },
+  {
+    "code": "EC403",
+    "name": "Madhya Kotshahar",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 19.7714,
+    "lon": 83.2656
+  },
+  {
+    "code": "SE404",
+    "name": "Sant Puramkheda",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "C",
+    "lat": 25.3984,
+    "lon": 85.2551
+  },
+  {
+    "code": "SR405",
+    "name": "Purvi Ganjgarh",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "B",
+    "lat": 13.0693,
+    "lon": 75.3882
+  },
+  {
+    "code": "SC406",
+    "name": "Naya Abadganj",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "B",
+    "lat": 18.3303,
+    "lon": 80.2336
+  },
+  {
+    "code": "SW407",
+    "name": "New Ganjkheda",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 13.1262,
+    "lon": 73.0286
+  },
+  {
+    "code": "WR408",
+    "name": "Purvi Garhshahar",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "B",
+    "lat": 21.1829,
+    "lon": 72.4163
+  },
+  {
+    "code": "WC409",
+    "name": "Madhya Purnagar",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 25.4507,
+    "lon": 80.5697
+  },
+  {
+    "code": "CR410",
+    "name": "Raja Abadgarh",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 17.8798,
+    "lon": 77.7984
+  },
+  {
+    "code": "NR411",
+    "name": "Rani Shaharkheda",
+    "state": "Haryana",
+    "zone": "NR",
+    "category": "C",
+    "lat": 31.967,
+    "lon": 78.5181
+  },
+  {
+    "code": "NW412",
+    "name": "Uttar Purnagar",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A1",
+    "lat": 23.8697,
+    "lon": 76.0036
+  },
+  {
+    "code": "NC413",
+    "name": "New Warapur",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "B",
+    "lat": 29.4699,
+    "lon": 83.3659
+  },
+  {
+    "code": "NE414",
+    "name": "Sant Ganjpuram",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "B",
+    "lat": 25.2527,
+    "lon": 81.1029
+  },
+  {
+    "code": "NF415",
+    "name": "Naya Purgarh",
+    "state": "Meghalaya",
+    "zone": "NFR",
+    "category": "B",
+    "lat": 26.0046,
+    "lon": 89.6384
+  },
+  {
+    "code": "ER416",
+    "name": "Purvi Purabad",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "A",
+    "lat": 20.4289,
+    "lon": 85.5833
+  },
+  {
+    "code": "EC417",
+    "name": "New Purpur",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "A",
+    "lat": 28.9171,
+    "lon": 84.9562
+  },
+  {
+    "code": "EC418",
+    "name": "Naya Waranagar",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 16.6253,
+    "lon": 86.6417
+  },
+  {
+    "code": "SE419",
+    "name": "Purvi Kotkot",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "A",
+    "lat": 21.179,
+    "lon": 86.1936
+  },
+  {
+    "code": "SR420",
+    "name": "Naya Ganjnagar",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "C",
+    "lat": 7.0593,
+    "lon": 79.0501
+  },
+  {
+    "code": "SC421",
+    "name": "New Kotabad",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 17.3125,
+    "lon": 78.5967
+  },
+  {
+    "code": "SW422",
+    "name": "Shri Nagarnagar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A",
+    "lat": 14.627,
+    "lon": 75.1882
+  },
+  {
+    "code": "WR423",
+    "name": "Raja Kotganj",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "B",
+    "lat": 22.5123,
+    "lon": 70.7372
+  },
+  {
+    "code": "WC424",
+    "name": "Madhya Khedakheda",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A1",
+    "lat": 25.4352,
+    "lon": 79.6088
+  },
+  {
+    "code": "CR425",
+    "name": "Sant Abadshahar",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 18.0688,
+    "lon": 72.382
+  },
+  {
+    "code": "NR426",
+    "name": "Shri Waragarh",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "B",
+    "lat": 29.4971,
+    "lon": 77.1575
+  },
+  {
+    "code": "NW427",
+    "name": "Old Purkot",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A",
+    "lat": 25.7079,
+    "lon": 75.8728
+  },
+  {
+    "code": "NC428",
+    "name": "Raja Kotshahar",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 29.1812,
+    "lon": 82.3926
+  },
+  {
+    "code": "NE429",
+    "name": "Uttar Khedanagar",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "B",
+    "lat": 25.0102,
+    "lon": 84.9581
+  },
+  {
+    "code": "NF430",
+    "name": "Raja Shaharpuram",
+    "state": "Tripura",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 25.965,
+    "lon": 91.8159
+  },
+  {
+    "code": "ER431",
+    "name": "Old Shaharkheda",
+    "state": "West Bengal",
+    "zone": "ER",
+    "category": "B",
+    "lat": 20.0852,
+    "lon": 84.5532
+  },
+  {
+    "code": "EC432",
+    "name": "Shri Ganjshahar",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 26.1051,
+    "lon": 87.3426
+  },
+  {
+    "code": "EC433",
+    "name": "Purvi Puramgarh",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "A1",
+    "lat": 17.7114,
+    "lon": 87.4724
+  },
+  {
+    "code": "SE434",
+    "name": "Purvi Warakheda",
+    "state": "West Bengal",
+    "zone": "SER",
+    "category": "B",
+    "lat": 23.1626,
+    "lon": 85.1064
+  },
+  {
+    "code": "SR435",
+    "name": "Naya Nagarpur",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "A",
+    "lat": 11.9105,
+    "lon": 75.6468
+  },
+  {
+    "code": "SC436",
+    "name": "Rani Shaharshahar",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "A",
+    "lat": 15.6031,
+    "lon": 80.7484
+  },
+  {
+    "code": "SW437",
+    "name": "Sant Nagarpur",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 12.4039,
+    "lon": 72.9471
+  },
+  {
+    "code": "WR438",
+    "name": "Madhya Nagarwara",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 20.5209,
+    "lon": 72.4973
+  },
+  {
+    "code": "WC439",
+    "name": "Madhya Ganjkot",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 24.9133,
+    "lon": 81.2599
+  },
+  {
+    "code": "CR440",
+    "name": "Purvi Abadshahar",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A1",
+    "lat": 22.0108,
+    "lon": 72.086
+  },
+  {
+    "code": "NR441",
+    "name": "Uttar Warakot",
+    "state": "Himachal Pradesh",
+    "zone": "NR",
+    "category": "A",
+    "lat": 27.2527,
+    "lon": 79.7224
+  },
+  {
+    "code": "NW442",
+    "name": "Uttar Shahargarh",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 24.7378,
+    "lon": 76.411
+  },
+  {
+    "code": "NC443",
+    "name": "Rani Puramnagar",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A",
+    "lat": 26.0143,
+    "lon": 83.3136
+  },
+  {
+    "code": "NE444",
+    "name": "Naya Abadshahar",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "C",
+    "lat": 23.9825,
+    "lon": 81.7557
+  },
+  {
+    "code": "NF445",
+    "name": "Sant Puramkot",
+    "state": "Assam",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 26.1972,
+    "lon": 91.5824
+  },
+  {
+    "code": "ER446",
+    "name": "Sant Khedapuram",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "C",
+    "lat": 21.1981,
+    "lon": 86.5779
+  },
+  {
+    "code": "EC447",
+    "name": "New Abadshahar",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "A",
+    "lat": 22.0446,
+    "lon": 84.8703
+  },
+  {
+    "code": "EC448",
+    "name": "Shri Shaharkot",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "B",
+    "lat": 16.0102,
+    "lon": 85.6011
+  },
+  {
+    "code": "SE449",
+    "name": "Sant Nagarabad",
+    "state": "Odisha",
+    "zone": "SER",
+    "category": "C",
+    "lat": 21.9442,
+    "lon": 80.9193
+  },
+  {
+    "code": "SR450",
+    "name": "Naya Puramnagar",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "B",
+    "lat": 13.281,
+    "lon": 78.1383
+  },
+  {
+    "code": "SC451",
+    "name": "Rani Waranagar",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 13.9346,
+    "lon": 81.2397
+  },
+  {
+    "code": "SW452",
+    "name": "Purvi Khedakheda",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 15.1371,
+    "lon": 73.415
+  },
+  {
+    "code": "WR453",
+    "name": "Sant Puramkot",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "B",
+    "lat": 20.2264,
+    "lon": 70.9037
+  },
+  {
+    "code": "WC454",
+    "name": "Purvi Abadganj",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A",
+    "lat": 20.2396,
+    "lon": 78.147
+  },
+  {
+    "code": "CR455",
+    "name": "Rani Garhnagar",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "B",
+    "lat": 19.1634,
+    "lon": 75.2434
+  },
+  {
+    "code": "NR456",
+    "name": "Purvi Nagarganj",
+    "state": "Punjab",
+    "zone": "NR",
+    "category": "C",
+    "lat": 26.2823,
+    "lon": 78.8515
+  },
+  {
+    "code": "NW457",
+    "name": "Rani Ganjnagar",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 25.7737,
+    "lon": 70.3427
+  },
+  {
+    "code": "NC458",
+    "name": "Sant Puramganj",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 28.4822,
+    "lon": 80.8917
+  },
+  {
+    "code": "NE459",
+    "name": "Old Abadnagar",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "A",
+    "lat": 29.1273,
+    "lon": 79.4786
+  },
+  {
+    "code": "NF460",
+    "name": "Uttar Purabad",
+    "state": "West Bengal",
+    "zone": "NFR",
+    "category": "B",
+    "lat": 28.7657,
+    "lon": 91.6057
+  },
+  {
+    "code": "ER461",
+    "name": "Purvi Khedakheda",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "A",
+    "lat": 19.6526,
+    "lon": 84.4513
+  },
+  {
+    "code": "EC462",
+    "name": "New Ganjnagar",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "A",
+    "lat": 22.2989,
+    "lon": 85.227
+  },
+  {
+    "code": "EC463",
+    "name": "Naya Khedagarh",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 16.2064,
+    "lon": 85.7825
+  },
+  {
+    "code": "SE464",
+    "name": "Naya Kotabad",
+    "state": "Odisha",
+    "zone": "SER",
+    "category": "B",
+    "lat": 20.459,
+    "lon": 86.684
+  },
+  {
+    "code": "SR465",
+    "name": "Uttar Khedakheda",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "B",
+    "lat": 11.5309,
+    "lon": 77.9922
+  },
+  {
+    "code": "SC466",
+    "name": "Old Warapur",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "B",
+    "lat": 15.6811,
+    "lon": 78.4346
+  },
+  {
+    "code": "SW467",
+    "name": "Old Abadshahar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 15.9734,
+    "lon": 75.0138
+  },
+  {
+    "code": "WR468",
+    "name": "Old Warakot",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 19.893,
+    "lon": 69.1824
+  },
+  {
+    "code": "WC469",
+    "name": "Madhya Abadpur",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A1",
+    "lat": 25.1606,
+    "lon": 78.3018
+  },
+  {
+    "code": "CR470",
+    "name": "Rani Khedaabad",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "A",
+    "lat": 17.735,
+    "lon": 73.6881
+  },
+  {
+    "code": "NR471",
+    "name": "Old Purabad",
+    "state": "Jammu and Kashmir",
+    "zone": "NR",
+    "category": "C",
+    "lat": 28.4836,
+    "lon": 78.8746
+  },
+  {
+    "code": "NW472",
+    "name": "Naya Ganjabad",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 29.3979,
+    "lon": 70.1974
+  },
+  {
+    "code": "NC473",
+    "name": "Rani Khedakheda",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 29.1386,
+    "lon": 82.8569
+  },
+  {
+    "code": "NE474",
+    "name": "New Shaharpuram",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "C",
+    "lat": 23.7657,
+    "lon": 78.8932
+  },
+  {
+    "code": "NF475",
+    "name": "Madhya Abadpur",
+    "state": "Tripura",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 23.0048,
+    "lon": 95.4253
+  },
+  {
+    "code": "ER476",
+    "name": "Shri Ganjkot",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "A",
+    "lat": 25.9315,
+    "lon": 89.91
+  },
+  {
+    "code": "EC477",
+    "name": "Rani Purpur",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 26.9329,
+    "lon": 82.9916
+  },
+  {
+    "code": "EC478",
+    "name": "Purvi Shaharkot",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "B",
+    "lat": 20.9318,
+    "lon": 85.635
+  },
+  {
+    "code": "SE479",
+    "name": "Madhya Nagarkot",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "B",
+    "lat": 19.4552,
+    "lon": 81.6025
+  },
+  {
+    "code": "SR480",
+    "name": "Raja Warakot",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "C",
+    "lat": 11.8549,
+    "lon": 81.0019
+  },
+  {
+    "code": "SC481",
+    "name": "Rani Abadkheda",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 15.1478,
+    "lon": 80.3195
+  },
+  {
+    "code": "SW482",
+    "name": "Naya Ganjpur",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "C",
+    "lat": 10.7267,
+    "lon": 76.7167
+  },
+  {
+    "code": "WR483",
+    "name": "Madhya Abadkheda",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "C",
+    "lat": 18.9845,
+    "lon": 74.2174
+  },
+  {
+    "code": "WC484",
+    "name": "Shri Kotkot",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A",
+    "lat": 25.2516,
+    "lon": 79.6902
+  },
+  {
+    "code": "CR485",
+    "name": "Rani Warapur",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "B",
+    "lat": 17.7468,
+    "lon": 72.4746
+  },
+  {
+    "code": "NR486",
+    "name": "Sant Nagarpur",
+    "state": "Delhi",
+    "zone": "NR",
+    "category": "C",
+    "lat": 29.0675,
+    "lon": 75.9376
+  },
+  {
+    "code": "NW487",
+    "name": "Naya Garhwara",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "B",
+    "lat": 26.8222,
+    "lon": 70.71
+  },
+  {
+    "code": "NC488",
+    "name": "New Khedaabad",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 23.016,
+    "lon": 82.9203
+  },
+  {
+    "code": "NE489",
+    "name": "Sant Purkot",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "A",
+    "lat": 24.0194,
+    "lon": 79.6907
+  },
+  {
+    "code": "NF490",
+    "name": "Raja Ganjnagar",
+    "state": "Tripura",
+    "zone": "NFR",
+    "category": "A",
+    "lat": 25.3657,
+    "lon": 95.8969
+  },
+  {
+    "code": "ER491",
+    "name": "New Purgarh",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "A",
+    "lat": 23.7512,
+    "lon": 87.0394
+  },
+  {
+    "code": "EC492",
+    "name": "Uttar Nagarkot",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "B",
+    "lat": 24.865,
+    "lon": 85.8788
+  },
+  {
+    "code": "EC493",
+    "name": "Old Purampuram",
+    "state": "Andhra Pradesh",
+    "zone": "ECoR",
+    "category": "B",
+    "lat": 16.6714,
+    "lon": 83.7503
+  },
+  {
+    "code": "SE494",
+    "name": "Old Waraganj",
+    "state": "West Bengal",
+    "zone": "SER",
+    "category": "B",
+    "lat": 18.5267,
+    "lon": 81.1134
+  },
+  {
+    "code": "SR495",
+    "name": "Madhya Waraabad",
+    "state": "Tamil Nadu",
+    "zone": "SR",
+    "category": "A1",
+    "lat": 8.4487,
+    "lon": 78.9673
+  },
+  {
+    "code": "SC496",
+    "name": "Purvi Waranagar",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 16.2966,
+    "lon": 81.7641
+  },
+  {
+    "code": "SW497",
+    "name": "Sant Nagarshahar",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A",
+    "lat": 13.0971,
+    "lon": 75.1701
+  },
+  {
+    "code": "WR498",
+    "name": "Naya Warapur",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 21.2554,
+    "lon": 70.5837
+  },
+  {
+    "code": "WC499",
+    "name": "Sant Khedapur",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A",
+    "lat": 20.1,
+    "lon": 77.4065
+  },
+  {
+    "code": "CR500",
+    "name": "Old Garhkheda",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 16.4269,
+    "lon": 74.7097
+  },
+  {
+    "code": "NR501",
+    "name": "Old Garhshahar",
+    "state": "Himachal Pradesh",
+    "zone": "NR",
+    "category": "C",
+    "lat": 32.1716,
+    "lon": 76.3338
+  },
+  {
+    "code": "NW502",
+    "name": "Purvi Garhpur",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A",
+    "lat": 29.6448,
+    "lon": 73.1433
+  },
+  {
+    "code": "NC503",
+    "name": "Naya Abadabad",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A1",
+    "lat": 25.4636,
+    "lon": 83.918
+  },
+  {
+    "code": "NE504",
+    "name": "Raja Abadganj",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "B",
+    "lat": 29.8756,
+    "lon": 84.8992
+  },
+  {
+    "code": "NF505",
+    "name": "Purvi Nagargarh",
+    "state": "Tripura",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 26.8644,
+    "lon": 94.9964
+  },
+  {
+    "code": "ER506",
+    "name": "Old Warapur",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "C",
+    "lat": 23.613,
+    "lon": 89.4718
+  },
+  {
+    "code": "EC507",
+    "name": "Purvi Garhganj",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 26.1155,
+    "lon": 87.3086
+  },
+  {
+    "code": "EC508",
+    "name": "Purvi Nagarkheda",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "B",
+    "lat": 22.0723,
+    "lon": 87.161
+  },
+  {
+    "code": "SE509",
+    "name": "Raja Puramgarh",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "C",
+    "lat": 22.7627,
+    "lon": 80.7623
+  },
+  {
+    "code": "SR510",
+    "name": "Sant Garhganj",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "C",
+    "lat": 11.7657,
+    "lon": 77.312
+  },
+  {
+    "code": "SC511",
+    "name": "Raja Kotabad",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 19.4458,
+    "lon": 81.7792
+  },
+  {
+    "code": "SW512",
+    "name": "Uttar Kotpuram",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "B",
+    "lat": 16.3999,
+    "lon": 78.5076
+  },
+  {
+    "code": "WR513",
+    "name": "Purvi Abadganj",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "C",
+    "lat": 23.4182,
+    "lon": 71.2461
+  },
+  {
+    "code": "WC514",
+    "name": "Raja Khedanagar",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "C",
+    "lat": 20.9797,
+    "lon": 80.7678
+  },
+  {
+    "code": "CR515",
+    "name": "New Shaharkot",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 21.5404,
+    "lon": 72.4593
+  },
+  {
+    "code": "NR516",
+    "name": "Old Garhganj",
+    "state": "Jammu and Kashmir",
+    "zone": "NR",
+    "category": "C",
+    "lat": 26.2026,
+    "lon": 74.3493
+  },
+  {
+    "code": "NW517",
+    "name": "Shri Purabad",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 23.3539,
+    "lon": 72.5226
+  },
+  {
+    "code": "NC518",
+    "name": "Shri Puramkot",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "C",
+    "lat": 25.2786,
+    "lon": 83.4615
+  },
+  {
+    "code": "NE519",
+    "name": "Uttar Abadkot",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "C",
+    "lat": 26.6227,
+    "lon": 85.2236
+  },
+  {
+    "code": "NF520",
+    "name": "New Khedashahar",
+    "state": "Meghalaya",
+    "zone": "NFR",
+    "category": "B",
+    "lat": 24.1446,
+    "lon": 95.2614
+  },
+  {
+    "code": "ER521",
+    "name": "Purvi Purampur",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "A1",
+    "lat": 20.6404,
+    "lon": 88.0058
+  },
+  {
+    "code": "EC522",
+    "name": "Shri Abadabad",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "B",
+    "lat": 26.5611,
+    "lon": 85.593
+  },
+  {
+    "code": "EC523",
+    "name": "Uttar Waraganj",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "C",
+    "lat": 21.6061,
+    "lon": 82.5664
+  },
+  {
+    "code": "SE524",
+    "name": "Madhya Purampuram",
+    "state": "Chhattisgarh",
+    "zone": "SER",
+    "category": "C",
+    "lat": 24.4611,
+    "lon": 83.713
+  },
+  {
+    "code": "SR525",
+    "name": "Shri Warapuram",
+    "state": "Puducherry",
+    "zone": "SR",
+    "category": "C",
+    "lat": 12.7702,
+    "lon": 77.2801
+  },
+  {
+    "code": "SC526",
+    "name": "Purvi Purshahar",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 17.5314,
+    "lon": 79.7634
+  },
+  {
+    "code": "SW527",
+    "name": "Sant Nagarwara",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "B",
+    "lat": 17.4185,
+    "lon": 76.9842
+  },
+  {
+    "code": "WR528",
+    "name": "Sant Purampuram",
+    "state": "Gujarat",
+    "zone": "WR",
+    "category": "A",
+    "lat": 21.6211,
+    "lon": 70.6821
+  },
+  {
+    "code": "WC529",
+    "name": "Uttar Khedagarh",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "A",
+    "lat": 24.549,
+    "lon": 79.5878
+  },
+  {
+    "code": "CR530",
+    "name": "Sant Puramgarh",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 21.1571,
+    "lon": 76.0812
+  },
+  {
+    "code": "NR531",
+    "name": "Madhya Abadkot",
+    "state": "Haryana",
+    "zone": "NR",
+    "category": "C",
+    "lat": 30.4682,
+    "lon": 76.3301
+  },
+  {
+    "code": "NW532",
+    "name": "Rani Shaharpuram",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "C",
+    "lat": 24.268,
+    "lon": 70.6832
+  },
+  {
+    "code": "NC533",
+    "name": "Naya Puramshahar",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "B",
+    "lat": 27.081,
+    "lon": 78.5558
+  },
+  {
+    "code": "NE534",
+    "name": "Shri Puramgarh",
+    "state": "Bihar",
+    "zone": "NER",
+    "category": "B",
+    "lat": 25.3239,
+    "lon": 80.5584
+  },
+  {
+    "code": "NF535",
+    "name": "Purvi Warapur",
+    "state": "Tripura",
+    "zone": "NFR",
+    "category": "C",
+    "lat": 29.6101,
+    "lon": 89.4985
+  },
+  {
+    "code": "ER536",
+    "name": "Shri Shaharnagar",
+    "state": "Jharkhand",
+    "zone": "ER",
+    "category": "C",
+    "lat": 23.2089,
+    "lon": 86.8918
+  },
+  {
+    "code": "EC537",
+    "name": "Naya Ganjabad",
+    "state": "Jharkhand",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 28.9103,
+    "lon": 88.2499
+  },
+  {
+    "code": "EC538",
+    "name": "New Ganjkot",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "A",
+    "lat": 19.4131,
+    "lon": 85.4172
+  },
+  {
+    "code": "SE539",
+    "name": "Naya Kotpur",
+    "state": "West Bengal",
+    "zone": "SER",
+    "category": "C",
+    "lat": 20.4147,
+    "lon": 85.8284
+  },
+  {
+    "code": "SR540",
+    "name": "Naya Khedaganj",
+    "state": "Kerala",
+    "zone": "SR",
+    "category": "A",
+    "lat": 7.9058,
+    "lon": 77.536
+  },
+  {
+    "code": "SC541",
+    "name": "Raja Garhgarh",
+    "state": "Andhra Pradesh",
+    "zone": "SCR",
+    "category": "C",
+    "lat": 13.0327,
+    "lon": 79.2365
+  },
+  {
+    "code": "SW542",
+    "name": "Rani Purkot",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "A1",
+    "lat": 15.2372,
+    "lon": 76.8868
+  },
+  {
+    "code": "WR543",
+    "name": "Shri Abadkot",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "A",
+    "lat": 18.719,
+    "lon": 72.5234
+  },
+  {
+    "code": "WC544",
+    "name": "Sant Ganjnagar",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 26.1392,
+    "lon": 78.1915
+  },
+  {
+    "code": "CR545",
+    "name": "Old Khedashahar",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "C",
+    "lat": 22.2158,
+    "lon": 78.9683
+  },
+  {
+    "code": "NR546",
+    "name": "Rani Warakot",
+    "state": "Haryana",
+    "zone": "NR",
+    "category": "A",
+    "lat": 32.6366,
+    "lon": 79.4274
+  },
+  {
+    "code": "NW547",
+    "name": "Raja Purabad",
+    "state": "Rajasthan",
+    "zone": "NWR",
+    "category": "A",
+    "lat": 24.4783,
+    "lon": 70.1534
+  },
+  {
+    "code": "NC548",
+    "name": "Old Ganjnagar",
+    "state": "Uttar Pradesh",
+    "zone": "NCR",
+    "category": "A1",
+    "lat": 25.1263,
+    "lon": 81.4822
+  },
+  {
+    "code": "NE549",
+    "name": "Old Khedapur",
+    "state": "Uttar Pradesh",
+    "zone": "NER",
+    "category": "A",
+    "lat": 28.075,
+    "lon": 78.6382
+  },
+  {
+    "code": "NF550",
+    "name": "Purvi Garhwara",
+    "state": "Nagaland",
+    "zone": "NFR",
+    "category": "A",
+    "lat": 26.831,
+    "lon": 92.3208
+  },
+  {
+    "code": "ER551",
+    "name": "Naya Abadpur",
+    "state": "Bihar",
+    "zone": "ER",
+    "category": "C",
+    "lat": 24.1317,
+    "lon": 88.6374
+  },
+  {
+    "code": "EC552",
+    "name": "Sant Khedakheda",
+    "state": "Bihar",
+    "zone": "ECR",
+    "category": "C",
+    "lat": 27.8146,
+    "lon": 82.7344
+  },
+  {
+    "code": "EC553",
+    "name": "Madhya Nagarpuram",
+    "state": "Odisha",
+    "zone": "ECoR",
+    "category": "A",
+    "lat": 19.4842,
+    "lon": 85.263
+  },
+  {
+    "code": "SE554",
+    "name": "Sant Shaharabad",
+    "state": "Jharkhand",
+    "zone": "SER",
+    "category": "C",
+    "lat": 20.5675,
+    "lon": 80.7758
+  },
+  {
+    "code": "SR555",
+    "name": "New Abadwara",
+    "state": "Kerala",
+    "zone": "SR",
+    "category": "B",
+    "lat": 7.0192,
+    "lon": 79.2014
+  },
+  {
+    "code": "SC556",
+    "name": "Purvi Khedawara",
+    "state": "Telangana",
+    "zone": "SCR",
+    "category": "A",
+    "lat": 18.4567,
+    "lon": 76.0253
+  },
+  {
+    "code": "SW557",
+    "name": "Purvi Puramabad",
+    "state": "Karnataka",
+    "zone": "SWR",
+    "category": "B",
+    "lat": 12.3489,
+    "lon": 72.8506
+  },
+  {
+    "code": "WR558",
+    "name": "Naya Purpuram",
+    "state": "Maharashtra",
+    "zone": "WR",
+    "category": "B",
+    "lat": 20.982,
+    "lon": 69.8113
+  },
+  {
+    "code": "WC559",
+    "name": "Uttar Purganj",
+    "state": "Madhya Pradesh",
+    "zone": "WCR",
+    "category": "B",
+    "lat": 22.0027,
+    "lon": 78.064
+  },
+  {
+    "code": "CR560",
+    "name": "Madhya Puramnagar",
+    "state": "Maharashtra",
+    "zone": "CR",
+    "category": "B",
+    "lat": 17.2801,
+    "lon": 74.8054
+  }
+]
