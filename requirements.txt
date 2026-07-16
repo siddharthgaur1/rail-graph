@@ -1,6 +1,6 @@
-streamlit>=1.35
-networkx>=3.2
-scipy>=1.11          # nx.pagerank depends on it internally
-pandas>=2.2
-plotly>=5.22
-folium>=0.16
+streamlit==1.59.2
+networkx==3.6.1
+scipy==1.17.1
+pandas==3.0.3
+plotly==6.8.0
+folium==0.20.0
