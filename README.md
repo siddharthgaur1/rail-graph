@@ -4,9 +4,9 @@
 
 [![CI](https://github.com/siddharthgaur1/rail-graph/actions/workflows/ci.yml/badge.svg)](https://github.com/siddharthgaur1/rail-graph/actions/workflows/ci.yml) [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![No API key](https://img.shields.io/badge/API%20key-none%20needed-brightgreen)](#quickstart)
 
-> **Live demo:** _pending deploy to Hugging Face Spaces (free CPU)._ Runs with no
-> key and no setup — the network dataset is committed. Screenshot below is the app
-> running locally, unedited: 600 stations, 755 links, live folium map.
+> **▶ Live demo: https://siddharthgaur1-siddharthrail-graph-srcapp-hme3vr.streamlit.app/**
+> — clickable with **no API key**: 600 stations, 755 links, live folium map, centrality
+> and resilience tabs. (First load may take ~30s if the app is asleep.)
 
 ![RailGraph network explorer: 600-station map, centrality and resilience tabs](assets/demo.png)
 
