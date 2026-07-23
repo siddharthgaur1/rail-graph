@@ -1,6 +1,30 @@
 # RailGraph
 
-[![CI](https://github.com/siddharthgaur1/rail-graph/actions/workflows/ci.yml/badge.svg)](https://github.com/siddharthgaur1/rail-graph/actions/workflows/ci.yml) [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+**Treats India's rail network as a graph and runs real network-science on it — PageRank, betweenness, k-shortest-paths, resilience simulation. No API key, data committed.**
+
+[![CI](https://github.com/siddharthgaur1/rail-graph/actions/workflows/ci.yml/badge.svg)](https://github.com/siddharthgaur1/rail-graph/actions/workflows/ci.yml) [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![No API key](https://img.shields.io/badge/API%20key-none%20needed-brightgreen)](#quickstart)
+
+> **Live demo:** _pending deploy to Hugging Face Spaces (free CPU)._ Runs with no
+> key and no setup — the network dataset is committed. Screenshot below is the app
+> running locally, unedited: 600 stations, 755 links, live folium map.
+
+![RailGraph network explorer: 600-station map, centrality and resilience tabs](assets/demo.png)
+
+## Quickstart
+
+```bash
+git clone https://github.com/siddharthgaur1/rail-graph
+cd rail-graph
+pip install -r requirements.txt
+streamlit run src/app.py          # data is already committed — nothing to fetch
+```
+
+No API key, no database, no cloud services. See
+[Data — read this before treating any number as real](#data--read-this-before-treating-any-number-as-real)
+for the dataset's provenance, and [SECURITY.md](SECURITY.md) for the (short) threat
+model.
+
+---
 
 Most "railway network" tools are timetable lookups. This treats India's rail
 network as a graph and applies actual network-science algorithms to it:
