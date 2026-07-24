@@ -140,7 +140,7 @@ def find_k_shortest_paths(src: str, dst: str, k: int = 3) -> list[dict]:
                 "stops": len(path) - 1,
             })
         return results
-    except Exception as e:
+    except Exception as e:  # noqa: BLE001 - surfaced to the UI as a result row, not raised
         return [{"error": str(e)}]
 
 
@@ -193,7 +193,7 @@ def simulate_removal(station_code: str) -> dict:
 
 def get_zone_stats() -> pd.DataFrame:
     """Zone-level summary: station count, avg degree, total connections, top station."""
-    G, stations, _ = load_graph()
+    _G, _stations, _ = load_graph()
     df_cent = get_centrality_df()
     zone_df = (
         df_cent.groupby("zone")
@@ -219,7 +219,7 @@ def get_graph_stats() -> dict:
         "density":    round(nx.density(G), 4),
         "components": nx.number_connected_components(G),
         "diameter":   nx.diameter(G) if nx.is_connected(G) else "N/A (disconnected)",
-        "zones":      len(set(s["zone"] for s in stations.values())),
-        "states":     len(set(s["state"] for s in stations.values())),
+        "zones":      len({s["zone"] for s in stations.values()}),
+        "states":     len({s["state"] for s in stations.values()}),
         "total_km":   round(sum(e.get("distance_km", 0) for e in edges), 0),
     }

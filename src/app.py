@@ -26,9 +26,14 @@ from streamlit.components.v1 import html as st_html
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from graph_analysis import (
-    load_graph, get_centrality_df, get_communities,
-    find_k_shortest_paths, simulate_removal,
-    get_graph_stats, get_zone_stats, DATA_DIR,
+    DATA_DIR,
+    find_k_shortest_paths,
+    get_centrality_df,
+    get_communities,
+    get_graph_stats,
+    get_zone_stats,
+    load_graph,
+    simulate_removal,
 )
 
 st.set_page_config(
@@ -177,7 +182,7 @@ elif view == "📊 Analysis":
                      color_discrete_map=ZONE_COLORS,
                      labels={"pagerank": "PageRank Score (×1000)", "name": ""},
                      hover_data=["degree", "state", "zone"])
-        fig.update_layout(height=60 + top_n * 22, plot_bgcolor="white", margin=dict(t=10, b=10))
+        fig.update_layout(height=60 + top_n * 22, plot_bgcolor="white", margin={"t": 10, "b": 10})
         st.plotly_chart(fig, use_container_width=True)
         st.dataframe(top[["code","name","state","zone","degree","pagerank","betweenness","closeness"]],
                      use_container_width=True, hide_index=True)
@@ -187,7 +192,7 @@ elif view == "📊 Analysis":
         fig2 = px.bar(top_bc, x="betweenness", y="name", orientation="h", color="zone",
                       color_discrete_map=ZONE_COLORS,
                       labels={"betweenness": "Betweenness Centrality", "name": ""})
-        fig2.update_layout(height=500, plot_bgcolor="white", margin=dict(t=10, b=10))
+        fig2.update_layout(height=500, plot_bgcolor="white", margin={"t": 10, "b": 10})
         st.plotly_chart(fig2, use_container_width=True)
         st.caption("High betweenness = removing this station most disrupts the network.")
 
@@ -198,7 +203,7 @@ elif view == "📊 Analysis":
         fig_cc = px.bar(top_cc, x="closeness", y="name", orientation="h", color="zone",
                         color_discrete_map=ZONE_COLORS,
                         labels={"closeness": "Closeness Centrality", "name": ""})
-        fig_cc.update_layout(height=500, plot_bgcolor="white", margin=dict(t=10, b=10))
+        fig_cc.update_layout(height=500, plot_bgcolor="white", margin={"t": 10, "b": 10})
         st.plotly_chart(fig_cc, use_container_width=True)
 
     with tab4:
@@ -269,7 +274,7 @@ elif view == "🔍 Route Finder":
                 labels={"y": "Distance (km)"},
                 color_discrete_sequence=ROUTE_COLORS,
             )
-            fig_comp.update_layout(plot_bgcolor="white", height=220, margin=dict(t=10, b=10),
+            fig_comp.update_layout(plot_bgcolor="white", height=220, margin={"t": 10, "b": 10},
                                    showlegend=False)
             st.plotly_chart(fig_comp, use_container_width=True)
 
@@ -371,7 +376,7 @@ elif view == "💥 Resilience Simulator":
                    color="zone", color_discrete_map=ZONE_COLORS,
                    labels={"betweenness": "Betweenness Centrality", "name": ""},
                    hover_data=["degree", "state"])
-    fig_v.update_layout(height=450, plot_bgcolor="white", margin=dict(t=10, b=10))
+    fig_v.update_layout(height=450, plot_bgcolor="white", margin={"t": 10, "b": 10})
     st.plotly_chart(fig_v, use_container_width=True)
 
 
@@ -420,11 +425,11 @@ elif view == "🗂️ Zone Comparison":
             theta=labels + [labels[0]],
             fill="toself",
             name=row["zone"],
-            line=dict(color=ZONE_COLORS.get(row["zone"], "#6B7280")),
+            line={"color": ZONE_COLORS.get(row["zone"], "#6B7280")},
             opacity=0.5,
         ))
     fig_radar.update_layout(
-        polar=dict(radialaxis=dict(visible=True, range=[0, 1])),
+        polar={"radialaxis": {"visible": True, "range": [0, 1]}},
         showlegend=True, height=500,
     )
     st.subheader("Zone Radar (normalised)")
